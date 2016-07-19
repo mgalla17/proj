@@ -1,0 +1,26 @@
+CREATE TABLE Gene (
+	ID integer,
+	Organism_ID integer,
+	Gene_Name varchar,
+	Gene_Sequence text,
+	Tissue_ID integer
+);
+
+CREATE TABLE Organism (
+	ID integer,
+	Organism_Name varchar
+);
+
+CREATE TABLE mRNA (
+	ID integer,
+	Gene_ID integer,
+	Expression_Level integer,
+	Start integer,
+	Stop integer
+);
+
+CREATE TABLE Tissue (
+	ID integer,
+	Tissue_Name varchar
+);
+

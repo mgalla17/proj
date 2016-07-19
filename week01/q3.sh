@@ -1,0 +1,10 @@
+mkdir ./Changes
+mkdir ./Makefile
+mkdir ./bin
+mkdir ./cgi
+mkdir ./doc
+mkdir ./etc
+mkdir ./html
+mkdir ./lib
+mkdir ./sbin
+mkdir ./src
