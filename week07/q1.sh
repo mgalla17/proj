@@ -5,5 +5,5 @@ to=~/proj/week08/that/
 #Copies all files from "from" dir to "to" dir
 cd $from
 for i in *; do
-        mv $i $to$i;
+	mv $i $to$i;
 done
