@@ -1,0 +1,963 @@
+BLASTP 2.4.0+
+
+
+Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+Query= 24.6jsd14.Tut 
+       (506 letters)
+
+Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+           91,332,064 sequences; 33,640,656,333 total letters
+
+                                                                 Score       E
+Sequences producing significant alignments:                      (bits)    value
+emb|CCQ78409.1| hypothetical protein GBS90503_1758 [Streptococ...   171   2e-48
+gb|EFB63306.1| hypothetical protein HMPREF9209_0169 [Lactobaci...   155   6e-42
+emb|CZR03176.1| Hypothetical protein Tpal_2817, partial [Trich...   149   3e-40
+gb|EEV67789.1| conserved hypothetical protein [Staphylococcus ...   145   9e-39
+emb|CBL49509.1| conserved hypothetical protein [Lactobacillus ...   143   9e-38
+gb|EDT48702.1| hypothetical protein STRINF_00003, partial [Str...   136   2e-35
+emb|CDN41088.1| Putative uncharacterized protein [Paenibacillu...   136   3e-35
+gb|EHT65246.1| hypothetical protein SACIG2018_2803 [Staphyloco...   133   3e-34
+ref|WP_040226456.1| hypothetical protein [Bhargavaea cecembensis]   132   9e-34
+ref|WP_053432931.1| hypothetical protein [Sporosarcina globisp...   131   2e-33
+ref|WP_035458283.1| hypothetical protein [Lactobacillus acidophilus]   131   2e-33
+ref|WP_062106571.1| hypothetical protein [Bacillus niameyensis]     130   3e-33
+ref|WP_035403651.1| hypothetical protein [Bacillus sp. NRRL B-14911]   129   9e-33
+ref|WP_000203229.1| hypothetical protein [Staphylococcus aureu...   129   1e-32
+gb|EWG56041.1| hypothetical protein Y000_11530 [Staphylococcus...   127   4e-32
+ref|WP_050613785.1| hypothetical protein [Bacillus sp. SIT10]       127   4e-32
+ref|WP_034306132.1| MULTISPECIES: hypothetical protein [Bacill...   126   7e-32
+ref|WP_035501801.1| hypothetical protein [Geobacillus thermogl...   126   7e-32
+ref|WP_031790897.1| hypothetical protein [Staphylococcus aureus]    127   7e-32
+gb|EDP25891.1| hypothetical protein COPEUT_02269 [Coprococcus ...   127   8e-32
+gb|KDA45583.1| hypothetical protein Lani381_1357 [Lactobacillu...   126   9e-32
+ref|WP_004849485.1| hypothetical protein [Coprococcus eutactus...   125   3e-31
+emb|CZR11081.1| Hypothetical protein Tcol_3156 [Trichococcus c...   123   9e-31
+emb|CZR03126.1| Hypothetical protein Tpal_2814 [Trichococcus p...   123   1e-30
+gb|EGA98896.1| hypothetical protein SAO46_2808, partial [Staph...   122   2e-30
+emb|CNJ54085.1| Uncharacterised protein [Mycobacterium tubercu...   122   2e-30
+gb|AEH52125.1| hypothetical protein BCO26_0066 [Bacillus coagu...   122   2e-30
+ref|WP_050552655.1| hypothetical protein [Aeromonas hydrophila]     122   3e-30
+gb|EDP24804.1| hypothetical protein PEPMIC_00056 [Parvimonas m...   123   3e-30
+ref|WP_049868839.1| hypothetical protein [Paenibacillus sp. D9]     121   7e-30
+ref|WP_008400251.1| hypothetical protein [Clostridium sp. L2-5...   121   1e-29
+gb|ABZ84907.1| conserved hypothetical protein [Heliobacterium ...   122   4e-29
+gb|EFQ45725.1| hypothetical protein LBGG_01984 [Lactobacillus ...   119   6e-29
+ref|WP_049892007.1| hypothetical protein [Listeria seeligeri]       117   1e-28
+ref|WP_056059923.1| hypothetical protein [Exiguobacterium sp. ...   117   2e-28
+gb|ABE09160.1| conserved hypothetical protein [Escherichia col...   118   2e-28
+gb|ABE08379.1| hypothetical protein UTI89_C2923 [Escherichia c...   118   2e-28
+emb|CCI74526.1| unnamed protein product [Klebsiella pneumoniae...   118   3e-28
+gb|EFJ63628.1| hypothetical protein HMPREF9553_00243, partial ...   118   3e-28
+emb|CDO12945.1| unnamed protein product [Klebsiella pneumoniae]     118   3e-28
+gb|AAX67927.1| ORF16-lacZ fusion protein [Salmonella enterica ...   117   3e-28
+ref|WP_044701307.1| hypothetical protein [Escherichia coli]         116   6e-28
+gb|OCG19290.1| hypothetical protein A9G23_09380 [Gilliamella a...   116   6e-28
+gb|ABE05727.1| hypothetical protein UTI89_C0218 [Escherichia c...   116   6e-28
+ref|WP_050552042.1| hypothetical protein [Aeromonas veronii]        115   1e-27
+ref|WP_051012643.1| hypothetical protein, partial [Staphylococ...   115   1e-27
+gb|AAX64154.1| ORF16-lacZ fusion protein [Salmonella enterica ...   115   2e-27
+ref|WP_050896156.1| hypothetical protein [Neisseria meningitidis]   114   3e-27
+gb|EDM97730.1| hypothetical protein BACCAP_04473 [Pseudoflavon...   114   5e-27
+emb|CUB22684.1| hypothetical protein BN2127_JRS5_00115 [Bacill...   112   8e-27
+ref|WP_051025506.1| hypothetical protein [Bacillus velezensis]      111   3e-26
+gb|KJE32719.1| putative oRF16-lacZ fusion protein [Bacillus l...    111   3e-26
+emb|CGZ42598.1| Uncharacterised protein [Salmonella enterica ...    111   4e-26
+gb|EDO60888.1| hypothetical protein CLOLEP_02494 [ [[Clostrid...    110   1e-25
+gb|EHT44504.1| hypothetical protein SACIG1750_2966 [Staphyloc...    109   2e-25
+dbj|BAH75139.1| hypothetical protein [Desulfovibrio magneticu...    109   5e-25
+emb|CIC34492.1| Uncharacterised protein [Salmonella enterica ...    106   2e-24
+ref|WP_001822037.1| hypothetical protein [Staphylococcus aureus]    105   4e-24
+emb|CSI43085.1| Uncharacterised protein [Shigella sonnei]           105   6e-24
+gb|KUK47204.1| Uncharacterized protein XD74_2197 [Actinobacte...    105   7e-24
+emb|CUO69801.1| Uncharacterised protein [Coprococcus eutactus]      103   2e-23
+emb|CUN10256.1| Uncharacterised protein [Coprococcus eutactus]      103   2e-23
+emb|CUP93008.1| Uncharacterised protein [Roseburia hominis]         103   4e-23
+gb|EFH28520.1| conserved hypothetical protein [Streptomyces s...    103   6e-23
+gb|EJO15817.1| hypothetical protein RSSL_02250 [Streptococcus...    100   1e-22
+emb|CUH91584.1| hypothetical protein SD1D_0011 [Herbinix sp. ...    100   3e-22
+emb|CDZ23241.1| hypothetical protein CCDG5_0092 [ [[Clostridi...    100   6e-22
+emb|CBX28568.1| hypothetical protein N47_G38920 [uncultured D...    100   6e-22
+gb|EKB26778.1| hypothetical protein HMPREF1171_03478 [Aeromon...    97.4  3e-21
+ref|WP_003359529.1| hypothetical protein [Clostridium sporoge...    97.4  3e-21
+emb|CAJ55199.1| hypothetical protein LI1145 [Lawsonia intrace...    97.8  4e-21
+gb|AAU91204.1| conserved hypothetical protein [Methylococcus ...    97.1  4e-21
+emb|CRZ35421.1| hypothetical protein HHT355_2229 [Herbinix he...    96.7  6e-21
+gb|EQW98549.1| hypothetical protein G915_02059 [Escherichia c...    96.7  6e-21
+emb|CES39389.1| Uncharacterised protein [Salmonella enterica ...    95.9  1e-20
+gb|AGO88114.1| hypothetical protein [uncultured bacterium 413...    96.3  1e-20
+ref|WP_016240497.1| hypothetical protein [Escherichia coli]         95.5  1e-20
+ref|WP_064134287.1| hypothetical protein [Staphylococcus aureus]    95.1  2e-20
+emb|CSK80601.1| Uncharacterised protein [Shigella sonnei]           94.7  3e-20
+emb|CWX96262.1| Uncharacterised protein [Salmonella enterica ...    94.4  4e-20
+ref|WP_050576682.1| hypothetical protein [Escherichia coli]         94.4  4e-20
+ref|WP_050575174.1| hypothetical protein [Escherichia coli]         94.4  4e-20
+ref|WP_024189488.1| hypothetical protein [Escherichia coli]         94.4  4e-20
+emb|CET86398.1| Uncharacterised protein [Salmonella enterica ...    94.4  4e-20
+ref|WP_001350098.1| MULTISPECIES: hypothetical protein [Prote...    94.4  4e-20
+gb|EQT28193.1| hypothetical protein G830_00217 [Escherichia c...    94.4  4e-20
+ref|WP_058486420.1| hypothetical protein, partial [Defluviita...    94.0  4e-20
+ref|WP_048252528.1| hypothetical protein [Klebsiella pneumoniae]    94.0  5e-20
+emb|CGC02527.1| Uncharacterised protein [Salmonella enterica ...    94.0  5e-20
+ref|WP_046594928.1| hypothetical protein [Staphylococcus aureus]    94.0  6e-20
+emb|CDZ74307.1| hypothetical protein ING2D1G_0109 [Peptoniphi...    93.6  7e-20
+gb|EQS00001.1| hypothetical protein G799_04268 [Escherichia c...    93.6  7e-20
+gb|EHT17433.1| hypothetical protein SACIG1057_2897 [Staphyloc...    91.7  1e-19
+ref|WP_044727014.1| hypothetical protein [Escherichia coli]         92.0  2e-19
+ref|WP_044702379.1| hypothetical protein [Escherichia coli]         92.0  2e-19
+dbj|GAR62309.1| hypothetical protein NGUA15_04118 [Salmonella...    91.3  5e-19
+gb|EJU69617.1| hypothetical protein NMEN80179_1684 [Neisseria...    91.3  5e-19
+gb|EJU56121.1| hypothetical protein NMEN183_2140 [Neisseria m...    91.3  5e-19
+ref|WP_043052607.1| hypothetical protein [Bacillus coagulans]       90.9  7e-19
+emb|CUQ84530.1| Uncharacterised protein [[Eubacterium] siraeum]     90.5  9e-19
+
+
+>emb|CCQ78409.1| hypothetical protein GBS90503_1758 [Streptococcus agalactiae LADL-90-503]
+         Length = 107
+
+ Score =  171 bits (433), Expect = 2e-48
+ Identities = 99/107 (92%), Positives = 102/107 (95%)
+
+
+Query: 375 LLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadl 434
+           +LVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTS + VTAS SLKA+L 
+Sbjct: 1   MLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSRKSVTASESLKANL 60
+
+Query: 435 ssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           SSD RLQLA MKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  SSDCRLQLAYMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 107
+
+
+>gb|EFB63306.1| hypothetical protein HMPREF9209_0169 [Lactobacillus gasseri 224-1]
+         Length = 128
+
+ Score =  155 bits (391), Expect = 6e-42
+ Identities = 92/110 (83%), Positives = 94/110 (85%)
+
+
+Query: 376 LVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadls 435
+           LVAIIKLGTL RLPV NRRKVGMTS+HHAPYDLGYTRATM GTT  EP  AS SLKA LS 
+Sbjct: 3   LVAIIKLGTLMRLPVTNRRKVGMTSSHHAPYDLGYTRATMDGTTRSEPAKASGSLKAVLS 62
+
+Query: 436 sdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GNL 485
+           SD RLQLA  K ESLVIADQHAAVNTFPGLVHTARHT RVCNT+SR  NL 
+Sbjct: 63  SDCRLQLAYTKLESLVIADQHAAVNTFPGLVHTARHTMRVCNTQSRWDNL 112
+
+
+>emb|CZR03176.1| Hypothetical protein Tpal_2817, partial [Trichococcus palustris]
+         Length = 101
+
+ Score =  149 bits (377), Expect = 3e-40
+ Identities = 86/101 (85%), Positives = 89/101 (88%)
+
+
+Query: 381 KLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRL 440
+           +LGTL RLPV NRRKVGMTSNHHAPYDLGYTRATM GTTS +   +S SLKA LSSD RL 
+Sbjct: 1   QLGTLMRLPVTNRRKVGMTSNHHAPYDLGYTRATMDGTTSSKTARSSESLKAILSSDCRL 60
+
+Query: 441 QLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           QLA MK ESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  QLAYMKPESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 101
+
+
+>gb|EEV67789.1| conserved hypothetical protein [Staphylococcus aureus A9719]gb|EEV78573.1| conserved hypothetical protein [Staphylococcus aureus A6300]gb|EFW35073.1| hypothetical protein HMPREF9529_01276 [Staphylococcus aureus subsp. aureus MRSA177]
+         Length = 108
+
+ Score =  145 bits (367), Expect = 9e-39
+ Identities = 82/107 (76%), Positives = 84/107 (78%)
+
+
+Query: 388 LPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKS 447
+           +PV NRRKVGMTSNHHAPYDLGYTRATM  T   E   +S S K  LSSD  LQL  MK  
+Sbjct: 1   MPVTNRRKVGMTSNHHAPYDLGYTRATMDNTKGSETARSSKSHKVVLSSDCSLQLDYMKL 60
+
+Query: 448 ESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GNLLGASRLRWD 494
+           ESLVI DQHA VNTFPGLVHTARHTTRVCNTRSR  NLLGASR RWD 
+Sbjct: 61  ESLVIVDQHATVNTFPGLVHTARHTTRVCNTRSRWSNLLGASRRRWD 107
+
+
+>emb|CBL49509.1| conserved hypothetical protein [Lactobacillus crispatus ST1]emb|CBL49888.1| conserved hypothetical protein [Lactobacillus crispatus ST1]emb|CBL49901.1| conserved hypothetical protein [Lactobacillus crispatus ST1]emb|CBL51098.1| conserved hypothetical protein [Lactobacillus crispatus ST1]
+         Length = 117
+
+ Score =  143 bits (361), Expect = 9e-38
+ Identities = 87/112 (77%), Positives = 90/112 (80%)
+
+
+Query: 374 LLLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkad 433
+           +LLVA IKLGTL RLPV NRRKVGMTS+HHAPYDLGYTRATM  TT  EP  AS SLKA  
+Sbjct: 1   MLLVASIKLGTLMRLPVTNRRKVGMTSSHHAPYDLGYTRATMGSTTRSEPAKASESLKAV 60
+
+Query: 434 lssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GNL 485
+           LSSD  LQL   K ESLVIADQHAAVNTFPGLVHTARHT  VCN +SR  NL 
+Sbjct: 61  LSSDCSLQLDCTKLESLVIADQHAAVNTFPGLVHTARHTMGVCNAQSRWPNL 112
+
+
+>gb|EDT48702.1| hypothetical protein STRINF_00003, partial [Streptococcus infantarius subsp. infantarius ATCC BAA-102]
+         Length = 99
+
+ Score =  136 bits (343), Expect = 2e-35
+ Identities = 80/87 (91%), Positives = 82/87 (94%)
+
+
+Query: 395 KVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIAD 454
+           +VGMTSNHHAPYDLGYTRATMVGTTS E VTAS SLKA+LSSD RLQLA MKSESLVIAD 
+Sbjct: 13  EVGMTSNHHAPYDLGYTRATMVGTTSRESVTASKSLKANLSSDCRLQLAYMKSESLVIAD 72
+
+Query: 455 QHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           QHAAVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 73  QHAAVNTFPGLVHTARHTTRVCNTRSR 99
+
+
+>emb|CDN41088.1| Putative uncharacterized protein [Paenibacillus sp. P22]
+         Length = 107
+
+ Score =  136 bits (343), Expect = 3e-35
+ Identities = 80/101 (79%), Positives = 82/101 (81%)
+
+
+Query: 388 LPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKS 447
+           +PV NRRK GMTSNHHAPYDLGYTR TM GTT  E    S SLKA LSSD RLQLA MKS 
+Sbjct: 1   MPVTNRRKAGMTSNHHAPYDLGYTRTTMAGTTGREAARRSQSLKAGLSSDCRLQLACMKS 60
+
+Query: 448 ESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GNLLGA 488
+           E LVIADQHAAVNTFPGLVHTARHTTRV NTRSR GN  G+ 
+Sbjct: 61  ELLVIADQHAAVNTFPGLVHTARHTTRVYNTRSRWGNPQGS 101
+
+
+>gb|EHT65246.1| hypothetical protein SACIG2018_2803 [Staphylococcus aureus subsp. aureus CIG2018]
+         Length = 100
+
+ Score =  133 bits (335), Expect = 3e-34
+ Identities = 76/99 (76%), Positives = 78/99 (78%)
+
+
+Query: 396 VGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQ 455
+           +GMTSNHHAPYDLGYTRATM  T   E V +S S K  LSSD  LQL  MK ESLVI DQ 
+Sbjct: 1   MGMTSNHHAPYDLGYTRATMDNTKGSETVRSSKSHKVVLSSDCSLQLDYMKLESLVIVDQ 60
+
+Query: 456 HAAVNTFPGLVHTARHTTRVCNTRSR*GNLLGASRLRWD 494
+           HA VNTFPGLVHTARHTTRVCNTRSR  NLLGASR RWD 
+Sbjct: 61  HATVNTFPGLVHTARHTTRVCNTRSRWSNLLGASRRRWD 99
+
+
+>ref|WP_040226456.1| hypothetical protein [Bhargavaea cecembensis]
+         Length = 104
+
+ Score =  132 bits (332), Expect = 9e-34
+ Identities = 73/91 (80%), Positives = 74/91 (81%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  CEP   S S K   SSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTEGCEPARGSQSQKTVPSSDCRLQLACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLLGA 488
+           AVNTFPGLVHTARHTTRVCNTRSR GN  G+ 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSRWGNPYGS 91
+
+
+>ref|WP_053432931.1| hypothetical protein [Sporosarcina globispora]gb|KON85537.1| hypothetical protein AF332_00860 [Sporosarcina globispora]gb|KON89675.1| hypothetical protein AF332_24625 [Sporosarcina globispora]
+         Length = 93
+
+ Score =  131 bits (329), Expect = 2e-33
+ Identities = 74/89 (83%), Positives = 74/89 (83%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  CE    S S K  LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTKGCETARLSESHKTILSSDCRLQLACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLL 486
+           AVNTFPGLVHTARHTTRVCNTRSR GNLL 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSRWGNLL 89
+
+
+>ref|WP_035458283.1| hypothetical protein [Lactobacillus acidophilus]
+         Length = 109
+
+ Score =  131 bits (330), Expect = 2e-33
+ Identities = 79/104 (75%), Positives = 83/104 (79%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GTL RLPV NRRKVGMTS+HHAPYDLGYTRATM  TT  +P  AS SLKA LSSD  LQ 
+Sbjct: 1   MGTLMRLPVTNRRKVGMTSSHHAPYDLGYTRATMDSTTRSKPAKASESLKAVLSSDCSLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GNL 485
+           L   K ESLVIADQHAAVNTFPGLVHTARHT  VCN +SR  NL 
+Sbjct: 61  LDCTKLESLVIADQHAAVNTFPGLVHTARHTMGVCNAQSRWPNL 104
+
+
+>ref|WP_062106571.1| hypothetical protein [Bacillus niameyensis]
+         Length = 106
+
+ Score =  130 bits (328), Expect = 3e-33
+ Identities = 75/89 (84%), Positives = 75/89 (84%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  CE    S SLK  LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTEGCETARFSQSLKTILSSDCRLQLAYMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLL 486
+           AVNTFPGLVHTARHTTRVCNTRSR GNLL 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSRWGNLL 89
+
+
+>ref|WP_035403651.1| hypothetical protein [Bacillus sp. NRRL B-14911]
+         Length = 93
+
+ Score =  129 bits (324), Expect = 9e-33
+ Identities = 73/89 (82%), Positives = 74/89 (83%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  C+    S S K  LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTKGCKTARLSESHKTILSSDCRLQLACMKLESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLL 486
+           AVNTFPGLVHTARHTTRVCNTRSR GNLL 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSRWGNLL 89
+
+
+>ref|WP_000203229.1| hypothetical protein [Staphylococcus aureus]gb|EGA96140.1| hypothetical protein SAO11_2762 [Staphylococcus aureus O11]gb|EJE55070.1| hypothetical protein Newbould305_2752 [Staphylococcus aureus subsp. aureus str. Newbould 305]gb|EOR33736.1| hypothetical protein S091751_1679 [Staphylococcus aureus subsp. aureus 091751]gb|EOR48235.1| hypothetical protein M140OLGA_1495 [Staphylococcus aureus subsp. aureus 112808A]emb|CDP56659.1| hypothetical protein BN969_23520 [Staphylococcus aureus subsp. aureus]emb|CDP55918.1| hypothetical protein BN969_16010 [Staphylococcus aureus subsp. aureus]emb|CDP55517.1| hypothetical protein BN969_11930 [Staphylococcus aureus subsp. aureus]emb|CDP55160.1| hypothetical protein BN969_7990 [Staphylococcus aureus subsp. aureus]emb|CDP54868.1| hypothetical protein BN969_5030 [Staphylococcus aureus subsp. aureus]emb|CDP54867.1| hypothetical protein BN969_5000 [Staphylococcus aureus subsp. aureus]emb|CDP54637.1| hypothetical protein BN969_2580 [Staphylococcus aureus subsp. aureus]emb|CDP54451.1| hypothetical protein BN969_520 [Staphylococcus aureus subsp. aureus]gb|KFA45281.1| putative oRF16-lacZ fusion protein [Staphylococcus aureus]gb|KMR08711.1| hypothetical protein EU74_14660 [Staphylococcus aureus]gb|KQB61424.1| hypothetical protein AL076_14310 [Staphylococcus aureus]
+         Length = 98
+
+ Score =  129 bits (324), Expect = 1e-32
+ Identities = 74/97 (76%), Positives = 75/97 (77%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM  T   E   +S S K  LSSD  LQL  MK ESLVI DQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDNTKGSETARSSKSHKVVLSSDCSLQLDYMKLESLVIVDQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLLGASRLRWD 494
+            VNTFPGLVHTARHTTRVCNTRSR  NLLGASR RWD 
+Sbjct: 61  TVNTFPGLVHTARHTTRVCNTRSRWSNLLGASRRRWD 97
+
+
+>gb|EWG56041.1| hypothetical protein Y000_11530 [Staphylococcus aureus MUF168]
+         Length = 98
+
+ Score =  127 bits (320), Expect = 4e-32
+ Identities = 73/97 (75%), Positives = 75/97 (77%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM  T   E   +S S K  LSSD  L+L  MK ESLVI DQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDNTKGSETARSSKSHKVVLSSDCSLKLDYMKLESLVIVDQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLLGASRLRWD 494
+            VNTFPGLVHTARHTTRVCNTRSR  NLLGASR RWD 
+Sbjct: 61  TVNTFPGLVHTARHTTRVCNTRSRWSNLLGASRRRWD 97
+
+
+>ref|WP_050613785.1| hypothetical protein [Bacillus sp. SIT10]
+         Length = 93
+
+ Score =  127 bits (319), Expect = 4e-32
+ Identities = 74/89 (83%), Positives = 74/89 (83%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT   E    S S KA LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTKGSETARFSQSHKAILSSDCRLQLACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLL 486
+           AVNTFPGLVHTARHTTRVCNTRSR GNLL 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSRWGNLL 89
+
+
+>ref|WP_034306132.1| MULTISPECIES: hypothetical protein [Bacillus]emb|CGN04720.1| Uncharacterised protein [Salmonella enterica subsp. enterica serovar Typhi]emb|CRH73937.1| Uncharacterised protein [Chlamydia trachomatis]gb|KOR84731.1| hypothetical protein AM233_11935 [Bacillus sp. FJAT-22058]
+         Length = 84
+
+ Score =  126 bits (317), Expect = 7e-32
+ Identities = 71/84 (84%), Positives = 72/84 (85%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  C+P   S S KA LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTKGCKPAKVSESHKAILSSDCRLQLACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+>ref|WP_035501801.1| hypothetical protein [Geobacillus thermoglucosidasius]gb|KPC97124.1| hypothetical protein LR69_04688 [Geobacillus sp. BCO2]
+         Length = 84
+
+ Score =  126 bits (317), Expect = 7e-32
+ Identities = 71/84 (84%), Positives = 71/84 (84%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  CEP   S S KA LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMGGTKGCEPARGSESQKAALSSDCRLQLACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTR CNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRACNTRSR 84
+
+
+>ref|WP_031790897.1| hypothetical protein [Staphylococcus aureus]
+         Length = 98
+
+ Score =  127 bits (318), Expect = 7e-32
+ Identities = 73/97 (75%), Positives = 74/97 (76%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM  T   E   +S S K  LSSD  LQL  MK ESLVI DQH  
+Sbjct: 1   MTSNHHAPYDLGYTRATMDNTKGSETARSSKSHKVVLSSDCSLQLDYMKLESLVIVDQHD 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLLGASRLRWD 494
+            VNTFPGLVHTARHTTRVCNTRSR  NLLGASR RWD 
+Sbjct: 61  TVNTFPGLVHTARHTTRVCNTRSRWSNLLGASRRRWD 97
+
+
+>gb|EDP25891.1| hypothetical protein COPEUT_02269 [Coprococcus eutactus ATCC 27759]gb|EDP26600.1| hypothetical protein COPEUT_01256 [Coprococcus eutactus ATCC 27759]
+         Length = 100
+
+ Score =  127 bits (318), Expect = 8e-32
+ Identities = 75/100 (75%), Positives = 77/100 (77%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GTL RLP I RRKVGMTSNHHAPYDLGYTRATM  T   EPV AS   K  LSSD  LQ 
+Sbjct: 1   MGTLERLPGITRRKVGMTSNHHAPYDLGYTRATMAVTKRSEPVKASKPQKGCLSSDCSLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           L  MK ESLVIADQHAAVNTFPGLVHTARHT  V N RS+ 
+Sbjct: 61  LDYMKLESLVIADQHAAVNTFPGLVHTARHTMGVGNARSQ 100
+
+
+>gb|KDA45583.1| hypothetical protein Lani381_1357 [Lactobacillus animalis]
+         Length = 93
+
+ Score =  126 bits (317), Expect = 9e-32
+ Identities = 75/89 (84%), Positives = 77/89 (86%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GTTS +    S SLKA LSSD RLQLA MKSESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTTSRKTARFSKSLKAVLSSDCRLQLAYMKSESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLL 486
+           AVNTFPGLVHTARHT RVCNT+SR GNLL 
+Sbjct: 61  AVNTFPGLVHTARHTMRVCNTQSRWGNLL 89
+
+
+>ref|WP_004849485.1| hypothetical protein [Coprococcus eutactus]gb|EDP25403.1| hypothetical protein COPEUT_02397 [Coprococcus eutactus ATCC 27759]gb|EDP25626.1| hypothetical protein COPEUT_02271 [Coprococcus eutactus ATCC 27759]gb|EDP26507.1| hypothetical protein COPEUT_01358 [Coprococcus eutactus ATCC 27759]gb|EDP26612.1| hypothetical protein COPEUT_01243 [Coprococcus eutactus ATCC 27759]
+         Length = 100
+
+ Score =  125 bits (314), Expect = 3e-31
+ Identities = 74/100 (74%), Positives = 77/100 (77%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GTL RLP I RRKVGMTSNHHAPYDLGYTRATM  T   +PV AS   K  LSSD  LQ 
+Sbjct: 1   MGTLERLPGITRRKVGMTSNHHAPYDLGYTRATMAVTKRSKPVKASKPQKGCLSSDCSLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           L  MK ESLVIADQHAAVNTFPGLVHTARHT  V N RS+ 
+Sbjct: 61  LDYMKLESLVIADQHAAVNTFPGLVHTARHTMGVGNARSQ 100
+
+
+>emb|CZR11081.1| Hypothetical protein Tcol_3156 [Trichococcus collinsii]emb|CZR10920.1| Hypothetical protein TES5_2962 [Trichococcus sp. ES5]emb|CZR06420.1| Hypothetical protein TFLO_3143 [Trichococcus flocculiformis]emb|CZQ95613.1| Hypothetical protein TFLO_1982 [Trichococcus flocculiformis]
+         Length = 84
+
+ Score =  123 bits (309), Expect = 9e-31
+ Identities = 72/84 (85%), Positives = 74/84 (88%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GTTS +   +S SLKA LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTTSSKTARSSESLKAILSSDCRLQLACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+>emb|CZR03126.1| Hypothetical protein Tpal_2814 [Trichococcus palustris]
+         Length = 84
+
+ Score =  123 bits (308), Expect = 1e-30
+ Identities = 72/84 (85%), Positives = 74/84 (88%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GTTS +   +S SLKA LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTTSSKTARSSESLKAILSSDCRLQLAYMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+>gb|EGA98896.1| hypothetical protein SAO46_2808, partial [Staphylococcus aureus O46]
+         Length = 95
+
+ Score =  122 bits (307), Expect = 2e-30
+ Identities = 72/95 (75%), Positives = 73/95 (76%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM  T   E   +S S K  LSSD  LQL  MK ESLVI DQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDNTKGSETARSSKSHKVVLSSDCSLQLDYMKLESLVIVDQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLLGASRLR 492
+            VNTFPGLVHTARHTTRVCNTRSR  NLLGASR R 
+Sbjct: 61  TVNTFPGLVHTARHTTRVCNTRSRWSNLLGASRRR 95
+
+
+>emb|CNJ54085.1| Uncharacterised protein [Mycobacterium tuberculosis]emb|CRH82741.1| Uncharacterised protein [Chlamydia trachomatis]
+         Length = 84
+
+ Score =  122 bits (306), Expect = 2e-30
+ Identities = 72/84 (85%), Positives = 73/84 (86%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GTTS E    S SLKA LSSD RLQLA MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTTSSELARVSESLKAILSSDCRLQLAYMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNT+SR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTQSR 84
+
+
+>gb|AEH52125.1| hypothetical protein BCO26_0066 [Bacillus coagulans 2-6]gb|AEH52145.1| hypothetical protein BCO26_0086 [Bacillus coagulans 2-6]gb|AEH52228.1| hypothetical protein BCO26_0169 [Bacillus coagulans 2-6]gb|AEH53446.1| hypothetical protein BCO26_1387 [Bacillus coagulans 2-6]gb|AEH54152.1| hypothetical protein BCO26_2094 [Bacillus coagulans 2-6]gb|AEH54357.1| hypothetical protein BCO26_2299 [Bacillus coagulans 2-6]gb|AEH54730.1| hypothetical protein BCO26_2673 [Bacillus coagulans 2-6]gb|AEH54793.1| hypothetical protein BCO26_2737 [Bacillus coagulans 2-6]
+         Length = 84
+
+ Score =  122 bits (306), Expect = 2e-30
+ Identities = 68/84 (80%), Positives = 68/84 (80%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT  CE    S S K   SSD RLQ A MK ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTKGCETARLSQSQKTIPSSDCRLQPACMKPESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+>ref|WP_050552655.1| hypothetical protein [Aeromonas hydrophila]
+         Length = 100
+
+ Score =  122 bits (307), Expect = 3e-30
+ Identities = 70/100 (70%), Positives = 75/100 (75%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GT  RLPVINRRKVGMTS+HH PY  GYTRATM  T  C+    S S KA  S DW LQ 
+Sbjct: 1   MGTQGRLPVINRRKVGMTSSHHGPYGQGYTRATMARTEGCKLAIVSESQKARRSPDWSLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           L SMKSESLVIA+Q+ AVNTFPGLVHTARHT  V  TRSR 
+Sbjct: 61  LDSMKSESLVIANQNVAVNTFPGLVHTARHTMGVGCTRSR 100
+
+
+>gb|EDP24804.1| hypothetical protein PEPMIC_00056 [Parvimonas micra ATCC 33270]
+         Length = 122
+
+ Score =  123 bits (309), Expect = 3e-30
+ Identities = 75/103 (72%), Positives = 81/103 (78%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GTL RLP+ NRRKVGMTSNHHA Y LGYTRATMVGTT  E    S +LK +LSSD RLQ 
+Sbjct: 1   MGTLERLPMTNRRKVGMTSNHHALYVLGYTRATMVGTTRSEIEMLSETLKTNLSSDCRLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GN 484
+           LA MKSE LVIA+Q+ AVN FPGLVHTARHT  V NTRSR  N 
+Sbjct: 61  LAYMKSELLVIANQNVAVNAFPGLVHTARHTMGVGNTRSRRSN 103
+
+
+>ref|WP_049868839.1| hypothetical protein [Paenibacillus sp. D9]
+         Length = 97
+
+ Score =  121 bits (304), Expect = 7e-30
+ Identities = 73/91 (80%), Positives = 74/91 (81%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTR TM GTT  E    S SLKA LSSD RLQLA MKSE LVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRTTMAGTTGREAARRSQSLKAGLSSDCRLQLACMKSELLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNLLGA 488
+           AVNTFPGLVHTARHTTRV NTRSR GN  G+ 
+Sbjct: 61  AVNTFPGLVHTARHTTRVYNTRSRWGNPQGS 91
+
+
+>ref|WP_008400251.1| hypothetical protein [Clostridium sp. L2-50]gb|EDO56335.1| hypothetical protein CLOL250_03002 [Clostridium sp. L2-50]gb|EDO56987.1| hypothetical protein CLOL250_02685 [Clostridium sp. L2-50]gb|EDO57887.1| hypothetical protein CLOL250_01434 [Clostridium sp. L2-50]gb|EDO58406.1| hypothetical protein CLOL250_00829 [Clostridium sp. L2-50]
+         Length = 100
+
+ Score =  121 bits (303), Expect = 1e-29
+ Identities = 72/100 (72%), Positives = 75/100 (75%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GTL RLP I RRKVGMTSNHHAPYDLGYTRATM  T   E V  S   K  LSSD  LQ 
+Sbjct: 1   MGTLERLPGITRRKVGMTSNHHAPYDLGYTRATMAVTKRSETVKWSKPQKGCLSSDCSLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           L  MK ESLVIADQ+AAVNTFPGLVHTARHT  V N RS+ 
+Sbjct: 61  LDYMKLESLVIADQNAAVNTFPGLVHTARHTMGVGNARSQ 100
+
+
+>gb|ABZ84907.1| conserved hypothetical protein [Heliobacterium modesticaldum Ice1]
+         Length = 164
+
+ Score =  122 bits (305), Expect = 4e-29
+ Identities = 72/102 (70%), Positives = 74/102 (72%)
+
+
+Query: 383 GTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQL 442
+           GTL RLP    RK GMTSNHHAPY LGYTRATM GT   E    S   KA  SSD  LQL 
+Sbjct: 44  GTLGRLPGTTGRKAGMTSNHHAPYVLGYTRATMGGTNRGEAARRSEPEKAAHSSDCSLQL 103
+
+Query: 443 ASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR*GN 484
+            SMK+ESLVIA QH AVNTFPGLVHTARHTT+V NTRSR  N 
+Sbjct: 104 ESMKAESLVIAGQHTAVNTFPGLVHTARHTTKVGNTRSRCAN 145
+
+
+>gb|EFQ45725.1| hypothetical protein LBGG_01984 [Lactobacillus gasseri MV-22]
+         Length = 104
+
+ Score =  119 bits (298), Expect = 6e-29
+ Identities = 72/88 (81%), Positives = 74/88 (84%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTS+HHAPYDLGYTRATM GTT  EP  AS SLKA LSSD RLQLA  K ESLVIADQHA 
+Sbjct: 1   MTSSHHAPYDLGYTRATMDGTTRSEPAKASGSLKAVLSSDCRLQLAYTKLESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR*GNL 485
+           AVNTFPGLVHTARHT RVCNT+SR  NL 
+Sbjct: 61  AVNTFPGLVHTARHTMRVCNTQSRWDNL 88
+
+
+>ref|WP_049892007.1| hypothetical protein [Listeria seeligeri]
+         Length = 84
+
+ Score =  117 bits (294), Expect = 1e-28
+ Identities = 67/84 (79%), Positives = 67/84 (79%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM GT   E    S S K  LSSD RLQLA MK ESLVI DQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDGTKGSEAARWSQSHKTILSSDCRLQLAYMKPESLVIVDQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+            VNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  TVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+>ref|WP_056059923.1| hypothetical protein [Exiguobacterium sp. Leaf196]gb|KQS44553.1| hypothetical protein ASG02_00415 [Exiguobacterium sp. Leaf196]
+         Length = 84
+
+ Score =  117 bits (293), Expect = 2e-28
+ Identities = 67/84 (79%), Positives = 68/84 (80%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPY+LGYTRATM GT   E    S S KA  SSD RLQLA MKSESLVIA QH  
+Sbjct: 1   MTSNHHAPYELGYTRATMDGTKGSETARWSQSHKAVPSSDCRLQLACMKSESLVIAGQHT 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+>gb|ABE09160.1| conserved hypothetical protein [Escherichia coli UTI89]gb|ABJ02014.1| conserved hypothetical protein [Escherichia coli APEC O1]
+         Length = 121
+
+ Score =  118 bits (296), Expect = 2e-28
+ Identities = 69/109 (63%), Positives = 75/109 (68%)
+
+
+Query: 373 PLLLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slka 432
+           P  L+  ++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K  
+Sbjct: 13  PYPLLPAVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASEPHKV 72
+
+Query: 433 dlssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+             S DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 73  RRSPDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 121
+
+
+>gb|ABE08379.1| hypothetical protein UTI89_C2923 [Escherichia coli UTI89]gb|ABE09241.1| hypothetical protein UTI89_C3812 [Escherichia coli UTI89]gb|ABI99684.1| conserved hypothetical protein [Escherichia coli APEC O1]gb|ABJ02761.1| conserved hypothetical protein [Escherichia coli APEC O1]gb|ABJ03226.1| conserved hypothetical protein [Escherichia coli APEC O1]gb|ABJ03328.1| conserved hypothetical protein [Escherichia coli APEC O1]gb|ABJ03469.1| conserved hypothetical protein [Escherichia coli APEC O1]gb|EFJ76176.1| hypothetical protein HMPREF9552_00144 [Escherichia coli MS 198-1]gb|EFK05103.1| hypothetical protein HMPREF9548_00105 [Escherichia coli MS 182-1]gb|EFK17195.1| hypothetical protein HMPREF9541_00399 [Escherichia coli MS 116-1]gb|EFK27371.1| hypothetical protein HMPREF9550_00464 [Escherichia coli MS 187-1]gb|EFK74338.1| hypothetical protein HMPREF9535_01697 [Escherichia coli MS 78-1]gb|EFK92618.1| hypothetical protein HMPREF9543_00498 [Escherichia coli MS 146-1]gb|EGJ08671.1| hypothetical protein SSJG_04722 [Escherichia coli D9]gb|ANK02891.1| Hypothetical protein WLH_01630 [Escherichia coli O25b:H4]gb|ANK03752.1| Hypothetical protein WLH_02491 [Escherichia coli O25b:H4]
+         Length = 121
+
+ Score =  118 bits (296), Expect = 2e-28
+ Identities = 69/109 (63%), Positives = 75/109 (68%)
+
+
+Query: 373 PLLLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slka 432
+           P  L+  ++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K  
+Sbjct: 13  PYPLLPAVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASGPHKV 72
+
+Query: 433 dlssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+             S DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 73  RRSPDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 121
+
+
+>emb|CCI74526.1| unnamed protein product [Klebsiella pneumoniae subsp. rhinoscleromatis SB3432]
+         Length = 121
+
+ Score =  118 bits (295), Expect = 3e-28
+ Identities = 69/109 (63%), Positives = 75/109 (68%)
+
+
+Query: 373 PLLLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slka 432
+           P  L+  ++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K  
+Sbjct: 13  PYPLLPAVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAYTKRSDLARASGPHKV 72
+
+Query: 433 dlssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+             S DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 73  CRSPDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 121
+
+
+>gb|EFJ63628.1| hypothetical protein HMPREF9553_00243, partial [Escherichia coli MS 200-1]emb|CCJ46477.1| putative uncharacterized protein, partial [Escherichia coli]gb|ETJ28699.1| ORF16-lacZ fusion protein, partial [Escherichia coli DORA_A_5_14_21]
+         Length = 133
+
+ Score =  118 bits (296), Expect = 3e-28
+ Identities = 69/109 (63%), Positives = 75/109 (68%)
+
+
+Query: 373 PLLLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slka 432
+           P  L+  ++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K  
+Sbjct: 25  PYPLLPAVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASGPHKV 84
+
+Query: 433 dlssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+             S DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 85  RRSPDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 133
+
+
+>emb|CDO12945.1| unnamed protein product [Klebsiella pneumoniae]
+         Length = 127
+
+ Score =  118 bits (295), Expect = 3e-28
+ Identities = 69/109 (63%), Positives = 75/109 (68%)
+
+
+Query: 373 PLLLVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slka 432
+           P  L+  ++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K  
+Sbjct: 19  PYPLLPAVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAYTKRSDLARASGPHKV 78
+
+Query: 433 dlssdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+             S DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 79  CRSPDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 127
+
+
+>gb|AAX67927.1| ORF16-lacZ fusion protein [Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67]
+         Length = 106
+
+ Score =  117 bits (293), Expect = 3e-28
+ Identities = 68/106 (64%), Positives = 74/106 (69%)
+
+
+Query: 376 LVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadls 435
+           ++  I+ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K   S 
+Sbjct: 1   MLPAIRSGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASGPHKVRRS 60
+
+Query: 436 sdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+            DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 61  PDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 106
+
+
+>ref|WP_044701307.1| hypothetical protein [Escherichia coli]
+         Length = 103
+
+ Score =  116 bits (291), Expect = 6e-28
+ Identities = 67/103 (65%), Positives = 73/103 (70%)
+
+
+Query: 379 IIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdW 438
+           +++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K   S DW 
+Sbjct: 1   MVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASGPHKVRRSPDW 60
+
+Query: 439 RLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+            LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 61  SLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 103
+
+
+>gb|OCG19290.1| hypothetical protein A9G23_09380 [Gilliamella apicola]
+         Length = 105
+
+ Score =  116 bits (291), Expect = 6e-28
+ Identities = 67/102 (65%), Positives = 72/102 (70%)
+
+
+Query: 380 IKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWR 439
+           ++ GT  RLP+I RRKVG TS+HH PYD GYTRATM  T   E    S   K  LS DW  
+Sbjct: 4   VRPGTQRRLPLIKRRKVGTTSSHHGPYDQGYTRATMAYTKRSELARVSGPHKVRLSPDWS 63
+
+Query: 440 LQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V  TRSR 
+Sbjct: 64  LQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCTRSR 105
+
+
+>gb|ABE05727.1| hypothetical protein UTI89_C0218 [Escherichia coli UTI89]gb|ABE09738.1| hypothetical protein UTI89_C4312 [Escherichia coli UTI89]gb|ABE09853.1| hypothetical protein UTI89_C4437 [Escherichia coli UTI89]gb|ABE09975.1| hypothetical protein UTI89_C4564 [Escherichia coli UTI89]
+         Length = 106
+
+ Score =  116 bits (291), Expect = 6e-28
+ Identities = 67/106 (63%), Positives = 74/106 (69%)
+
+
+Query: 376 LVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadls 435
+           ++  ++ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K   S 
+Sbjct: 1   MLPAVRPGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASGPHKVRRS 60
+
+Query: 436 sdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+            DW LQL SMKSESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 61  PDWSLQLDSMKSESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 106
+
+
+>ref|WP_050552042.1| hypothetical protein [Aeromonas veronii]
+         Length = 100
+
+ Score =  115 bits (289), Expect = 1e-27
+ Identities = 68/100 (68%), Positives = 74/100 (74%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GT  RLPVINRRKVGMTS+HH PY  GYTRATM  T  C+    S S KA  S D  LQ 
+Sbjct: 1   MGTQGRLPVINRRKVGMTSSHHGPYGQGYTRATMARTEGCKLAIVSESQKARRSPDRSLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           L S+KSESLVIA+Q+ AVNTFPGLVHTARHT  V  TRSR 
+Sbjct: 61  LDSVKSESLVIANQNVAVNTFPGLVHTARHTMGVGCTRSR 100
+
+
+>ref|WP_051012643.1| hypothetical protein, partial [Staphylococcus epidermidis]
+         Length = 109
+
+ Score =  115 bits (289), Expect = 1e-27
+ Identities = 68/92 (73%), Positives = 70/92 (76%)
+
+
+Query: 395 KVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIAD 454
+           +VGMTSNHHAPYDLGYTRATM  T   E   +S S K  LSSD  LQL  MK ESLVI D 
+Sbjct: 1   EVGMTSNHHAPYDLGYTRATMDNTKGSETARSSKSHKVVLSSDCSLQLDYMKLESLVIVD 60
+
+Query: 455 QHAAVNTFPGLVHTARHTTRVCNTRSR*GNLL 486
+           QHA VNTFPGLVHTARHTTRVCNTRSR  N L 
+Sbjct: 61  QHATVNTFPGLVHTARHTTRVCNTRSRWSNHL 92
+
+
+>gb|AAX64154.1| ORF16-lacZ fusion protein [Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67]gb|AAX67708.1| ORF16-lacZ fusion protein [Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67]gb|AAX67790.1| ORF16-lacZ fusion protein [Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67]
+         Length = 106
+
+ Score =  115 bits (287), Expect = 2e-27
+ Identities = 67/106 (63%), Positives = 73/106 (68%)
+
+
+Query: 376 LVAIIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadls 435
+           ++  I+ GT  RLPVIN RKVGMTS+HH PYD GYTRATM  T   +   AS   K   S 
+Sbjct: 1   MLPAIRSGTQRRLPVINWRKVGMTSSHHGPYDQGYTRATMAHTKRSDLARASGPHKVRRS 60
+
+Query: 436 sdWRLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+            DW LQL SMK ESLVI DQ+A VNTFPGLVHTARHT  V   RSR 
+Sbjct: 61  PDWSLQLDSMKLESLVIVDQNATVNTFPGLVHTARHTMGVGCKRSR 106
+
+
+>ref|WP_050896156.1| hypothetical protein [Neisseria meningitidis]
+         Length = 100
+
+ Score =  114 bits (286), Expect = 3e-27
+ Identities = 67/100 (67%), Positives = 73/100 (73%)
+
+
+Query: 382 LGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQ 441
+           +GTL RLPV +RRKVGMTS+ H PYD G+TR TMVGT   +    S S K D S D  LQ 
+Sbjct: 1   MGTLMRLPVTSRRKVGMTSSPHGPYDQGFTRHTMVGTEGSQAARRSQSHKTDRSPDCTLQ 60
+
+Query: 442 LASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRSR 481
+           L  MKSESLVIA QH AVNTFPGLVHTARHT  V +TRSR 
+Sbjct: 61  LECMKSESLVIAGQHTAVNTFPGLVHTARHTMGVGDTRSR 100
+
+
+>gb|EDM97730.1| hypothetical protein BACCAP_04473 [Pseudoflavonifractor capillosus ATCC 29799]gb|EDM98347.1| hypothetical protein BACCAP_03833 [Pseudoflavonifractor capillosus ATCC 29799]
+         Length = 103
+
+ Score =  114 bits (284), Expect = 5e-27
+ Identities = 66/102 (64%), Positives = 74/102 (72%)
+
+
+Query: 379 IIKLGTLARLPVINRRKVGMTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdW 438
+           +++  TLARLP+  RRKVG TSNHHAPY LG+TR TMV     +        K+  SSD  
+Sbjct: 1   MLRKSTLARLPLTKRRKVGTTSNHHAPYVLGHTRTTMVVNRGKQCREVEQIPKSHPSSDC 60
+
+Query: 439 RLQLASMKSESLVIADQHAAVNTFPGLVHTARHTTRVCNTRS 480
+           RL+ A MK ESLVIADQHAAVNTFPGLVHTARHT RV NTRS 
+Sbjct: 61  RLKPACMKLESLVIADQHAAVNTFPGLVHTARHTMRVGNTRS 102
+
+
+>emb|CUB22684.1| hypothetical protein BN2127_JRS5_00115 [Bacillus amyloliquefaciens]
+         Length = 84
+
+ Score =  112 bits (281), Expect = 8e-27
+ Identities = 66/84 (78%), Positives = 68/84 (80%)
+
+
+Query: 398 MTSNHHAPYDLGYTRATMVGTTSCEPVTas*slkadlssdWRLQLASMKSESLVIADQHA 457
+           MTSNHHAPYDLGYTRATM  T   E V  S S K+ LSSD  LQL  +K ESLVIADQHA 
+Sbjct: 1   MTSNHHAPYDLGYTRATMDRTKGSETVRLSQSHKSVLSSDRSLQLDCVKLESLVIADQHA 60
+
+Query: 458 AVNTFPGLVHTARHTTRVCNTRSR 481
+           AVNTFPGLVHTARHTTRVCNTRSR 
+Sbjct: 61  AVNTFPGLVHTARHTTRVCNTRSR 84
+
+
+  Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+    Posted date:  Jul 25, 2016  3:44 PM
+	Number of letters in database: 33,640,656,333
+	Number of sequences in database: 91,332,064
+
+  Matrix: BLOSUM62
+  Gap Penalties Existence: 11, Extension: 1
+expect: 1e-10
+allowgaps: yes
+Search Statistics
+A: 40
+Hits_to_DB: 1,364,811,363
+S1: 38
+S1_bits: 19.2
+S2: 185
+S2_bits: 75.9
+T: 11
+X1: 15
+X1_bits: 7.5
+X2: 38
+X2_bits: 14.6
+X3: 64
+X3_bits: 24.7
+dbentries: 91,332,064
+dbletters: 33,640,656,333
+effectivedblength: 19,301,522,285
+effectivespace: 6,736,231,277,465
+effectivespaceused: 6,736,231,277,465
+entropy: 0.512
+entropy_gapped: 0.140
+kappa: 0.152
+kappa_gapped: 0.0410
+lambda: 0.347
+lambda_gapped: 0.267
+length_adjustment: 157
+num_extensions: 48,709,278
+num_successful_extensions: 133,977
+number_of_hsps_better_than_expect_value_cutoff_without_gapping: 0
+number_of_hsps_gapped: 133,978
+number_of_hsps_successfully_gapped: 3
+querylength: 349
+seqs_better_than_1e-10: 3
+
+

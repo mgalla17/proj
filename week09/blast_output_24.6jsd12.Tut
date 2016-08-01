@@ -1,0 +1,1146 @@
+BLASTP 2.4.0+
+
+
+Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+Query= 24.6jsd12.Tut 
+       (880 letters)
+
+Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+           91,332,064 sequences; 33,640,656,333 total letters
+
+                                                                 Score       E
+Sequences producing significant alignments:                      (bits)    value
+gb|EBA38630.1| hypothetical protein COLAER_02284 [Collinsella ...   137   6e-34
+dbj|GAN74957.1| hypothetical protein Apmu_0247_01 [Acidiphiliu...   136   2e-33
+gb|KHO02801.1| hypothetical protein JS55_02525 [Rickettsia fel...   131   9e-32
+gb|EOB10793.1| hypothetical protein H377_2860 [Rickettsia prow...   129   3e-31
+gb|EOB10663.1| hypothetical protein H376_1900 [Rickettsia prow...   129   3e-31
+ref|WP_039860568.1| hypothetical protein, partial [Photobacter...   119   3e-28
+gb|EEX91411.1| conserved hypothetical protein [Brucella ceti M...   105   2e-23
+gb|ENT00277.1| hypothetical protein B989_01850, partial [Bruce...   105   3e-23
+gb|EEZ33517.1| conserved hypothetical protein [Brucella sp. 83/13]   105   3e-23
+gb|ENS15315.1| hypothetical protein B972_03201 [Brucella abort...   105   3e-23
+ref|WP_050560390.1| MULTISPECIES: hypothetical protein [Brucella]   105   4e-23
+emb|CEH44546.1| conserved hypothetical protein [Xanthomonas ci...   103   4e-23
+emb|CEE39501.1| conserved hypothetical protein [Xanthomonas ci...   102   1e-22
+gb|KMS91954.1| hypothetical protein BVRB_033440, partial [Beta...   98.2  2e-21
+dbj|GAN86215.1| hypothetical protein Gain_0022_002 [Komagataei...   97.1  1e-20
+dbj|GAN69564.1| hypothetical protein Abol_046_001 [Acetobacter...   97.1  1e-20
+gb|EGE46866.1| Hypothetical protein APO_2582 [Acetobacter pomo...   95.9  4e-20
+dbj|GAN90600.1| hypothetical protein Gbfr_019_001 [Gluconobact...   95.5  5e-20
+gb|EFS39028.1| hypothetical protein HMPREF9574_00607 [Propioni...   95.5  5e-20
+dbj|BAL79568.1| hypothetical protein S23_63860 [Bradyrhizobium...   94.7  6e-20
+dbj|GAL98710.1| conserved hypothetical protein [Acetobacter tr...   95.1  7e-20
+gb|EFE70731.1| LOW QUALITY PROTEIN: conserved hypothetical pro...   96.3  7e-20
+dbj|GAN58022.1| hypothetical protein Abac_028_001 [Acetobacter...   94.7  9e-20
+dbj|GAN61682.1| hypothetical protein Abci_056_001 [Acetobacter...   94.7  9e-20
+dbj|GAN65036.1| hypothetical protein Abor_004_002 [Acetobacter...   94.4  1e-19
+dbj|BAM88840.1| conserved hypothetical protein [Bradyrhizobium...   93.6  2e-19
+gb|EFO49345.1| conserved hypothetical protein [Vibrio parahaem...   92.8  2e-19
+gb|EFO50065.1| conserved hypothetical protein [Vibrio parahaem...   92.8  3e-19
+dbj|BAQ44586.1| hypothetical protein Maq22A_c06145 [Methylobac...   93.6  3e-19
+gb|EFE75472.1| conserved hypothetical protein, partial [Strept...   92.4  5e-19
+ref|WP_052326397.1| hypothetical protein [Rickettsia felis]         92.4  6e-19
+dbj|BAU89665.1| hypothetical protein MPPM_1060 [Methylobacteri...   92.4  9e-19
+emb|CCG06612.1| Putative uncharacterized protein, partial [Par...   92.8  9e-19
+ref|WP_051013997.1| hypothetical protein [Pararhodospirillum p...   92.8  9e-19
+emb|CCG06586.1| unnamed protein product, partial [Pararhodospi...   92.8  1e-18
+emb|CUQ19260.1| Uncharacterised protein [Bacteroides vulgatus]      92.8  2e-18
+gb|KWW27340.1| hypothetical protein AUK64_2223 [bacterium P201]     92.8  2e-18
+emb|CCG06566.1| Putative uncharacterized protein, partial [Par...   92.8  2e-18
+emb|CUP52652.1| Uncharacterised protein [Bacteroides vulgatus]...   92.4  3e-18
+emb|CDT72964.1| conserved hypothetical protein [Vibrio sp. J2-29]   88.6  6e-18
+gb|EEZ19090.1| hypothetical protein HMPREF0105_4634 [Bacteroid...   90.1  8e-18
+gb|EDM52642.1| hypothetical protein EUBVEN_00058 [Eubacterium ...   87.4  1e-17
+gb|AGC78943.1| hypothetical protein (mitochondrion) [Vicia faba]    89.7  1e-17
+gb|EBA39187.1| hypothetical protein COLAER_01802 [Collinsella ...   89.0  1e-17
+dbj|BAQ43874.1| hypothetical protein Maq22A_c01905 [Methylobac...   88.6  2e-17
+gb|EHH01436.1| hypothetical protein HMPREF9441_00676 [Paraprev...   89.0  2e-17
+gb|EEY81381.1| LOW QUALITY PROTEIN: hypothetical protein HMPRE...   86.7  9e-17
+dbj|GAA57881.1| hypothetical protein CLF_113308 [Clonorchis si...   84.7  1e-16
+emb|CUQ93356.1| Uncharacterised protein [[Ruminococcus] torques]    85.1  1e-16
+ref|XP_016682740.1| PREDICTED: uncharacterized protein LOC1079...   86.7  2e-16
+gb|EEB36622.1| hypothetical protein ANHYDRO_00526 [Anaerococc...    83.6  3e-16
+gb|EDM19152.1| hypothetical protein BACCAC_03786 [Bacteroides...    85.5  7e-16
+ref|WP_057103214.1| hypothetical protein [Escherichia coli]         84.0  1e-15
+gb|EPS74490.1| hypothetical protein M569_00256 [Genlisea aurea]     85.9  1e-15
+gb|EDP22260.1| hypothetical protein FAEPRAM212_00883 [Faecali...    84.7  2e-15
+gb|EDP22130.1| hypothetical protein FAEPRAM212_01166 [Faecali...    84.7  2e-15
+gb|KWW24404.1| hypothetical protein AUK63_2758 [bacterium P3]       82.0  6e-15
+emb|CRH81592.1| Uncharacterised protein [Chlamydia trachomatis]     79.7  1e-14
+emb|CUP91017.1| Uncharacterised protein [Bacteroides xylaniso...    79.7  2e-14
+ref|XP_013459391.1| hypothetical protein MTR_3g035635 [Medica...    78.6  3e-14
+gb|EPS70020.1| hypothetical protein M569_04740 [Genlisea aurea]     79.3  4e-14
+gb|EPS74511.1| hypothetical protein M569_00228 [Genlisea aurea]     78.6  9e-14
+dbj|GAQ26319.1| putative uncharacterized protein [Ralstonia s...    75.9  1e-13
+emb|CCG06594.1| unnamed protein product, partial [Pararhodosp...    77.4  2e-13
+dbj|GAQ23760.1| putative hypothetical protein [Deinococcus gr...    75.5  3e-13
+ref|XP_013443672.1| hypothetical protein MTR_0002s0270 [Medic...    74.3  1e-12
+dbj|BAS31966.1| hypothetical protein IBK_0919 [Dehalococcoide...    73.6  2e-12
+gb|EDN81767.1| hypothetical protein ACTODO_00001 [Actinomyces...    71.2  1e-11
+ref|XP_016202863.1| PREDICTED: uncharacterized protein LOC107...    72.0  3e-11
+emb|CDL66587.1| unnamed protein product [uncultured bacterium]      71.2  3e-11
+gb|ESK57858.1| hypothetical protein PAJL_2582 [Propionibacter...    67.4  1e-10
+
+
+>gb|EBA38630.1| hypothetical protein COLAER_02284 [Collinsella aerofaciens ATCC 25986]gb|EBA38843.1| hypothetical protein COLAER_01925 [Collinsella aerofaciens ATCC 25986]gb|EBA39061.1| hypothetical protein COLAER_01671 [Collinsella aerofaciens ATCC 25986]
+         Length = 160
+
+ Score =  137 bits (345), Expect = 6e-34
+ Identities = 74/120 (61%), Positives = 81/120 (67%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*S 797
+           P   + S   GN + TA+ K EEGGDDVKSS PL  GLHTCYNG YRG    E ERI  S 
+Sbjct: 38  PRRVLPSGDAGNPRGTAAVKAEEGGDDVKSSCPLCPGLHTCYNGRYRGMPPREGERIPES 97
+
+Query: 798 TSKSGLESATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGSGLYQK*IA*PFGGRLPR 857
+             + GL +ATR HEVG+ASNR S CRGE VPGPCTHRPSHH S L+ K  A P GGR  R 
+Sbjct: 98  RPQFGLGAATRPHEVGVASNRGSACRGECVPGPCTHRPSHHPSRLHPKSPAQPRGGRRRR 157
+
+Query: 858  857
+            
+Sbjct: 158  157
+
+ Score = 89.0 bits (219), Expect = 5e-17
+ Identities = 50/87 (58%), Positives = 56/87 (64%), Gaps = 1/87 (1%)
+
+
+Query: 338 TGAAWLSSARVVRCWVKSRNERNPCL*L-SAFSWTL*RDCL*K*EEGGDDV*SAWSLRPG 396
+           TG AWLSSARVVRCWVKSRNERNP   L S  +         K EEGGDDV S+  L PG 
+Sbjct: 15  TGGAWLSSARVVRCWVKSRNERNPRRVLPSGDAGNPRGTAAVKAEEGGDDVKSSCPLCPG 74
+
+Query: 397 RHTCYNG*DNAQQTREGKRIAKTYPQF 423
+            HTCYNG       REG+RI ++ PQF 
+Sbjct: 75  LHTCYNGRYRGMPPREGERIPESRPQF 101
+
+
+>dbj|GAN74957.1| hypothetical protein Apmu_0247_01 [Acidiphilium multivorum AIU301]
+         Length = 168
+
+ Score =  136 bits (342), Expect = 2e-33
+ Identities = 78/139 (56%), Positives = 89/139 (64%), Gaps = 17/139 (12%)
+
+
+Query: 332 PSGNLDTGAAWLSSARVVRCWVKSRNERNPCL*LSAFSWTL*RDCL*---------K*EE 382
+           P+    TGAAWLSSARVVRCWVKSRNERNP L L A        CL          K EE 
+Sbjct: 11  PARGSRTGAAWLSSARVVRCWVKSRNERNPRLQLPA--------CLGGHSEGTAGDKPEE 62
+
+Query: 383 GGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQ 442
+           GGDDV S+W L PG HTCYNG D+ +   + + I+K+          + +K+ESLVIA Q 
+Sbjct: 63  GGDDVKSSWPLCPGLHTCYNGGDSGKPGGDTELISKSRLSSDCTLQLECMKVESLVIADQ 122
+
+Query: 443 HTAVNTFPGLVHTARHTMG 461
+           H AVNTFPGLVHTARHTMG 
+Sbjct: 123 HAAVNTFPGLVHTARHTMG 141
+
+
+>gb|KHO02801.1| hypothetical protein JS55_02525 [Rickettsia felis str. LSU]
+         Length = 162
+
+ Score =  131 bits (329), Expect = 9e-32
+ Identities = 76/137 (55%), Positives = 86/137 (62%), Gaps = 1/137 (0%)
+
+
+Query: 327 EMQRCPSGNLDTGAAWLSSARVVRCWVKSRNERNPCL*LSAFS-WTL*RDCL*K*EEGGD 385
+           EM    S    TG AWLSSARVVRCWVKSRNERNP   L A +     +    K EEGGD 
+Sbjct: 23  EMLSFSSAGPHTGVAWLSSARVVRCWVKSRNERNPHSYLPAGNAGNYKKTAGDKPEEGGD 82
+
+Query: 386 DV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQHTA 445
+           DV S+W LR G H CYNG    +Q  + ++I K +         +S+KLESLVIA QH A 
+Sbjct: 83  DVKSSWPLRVGLHACYNGVYRGKQDGDVEQIPKRHLSSDCSLQLESMKLESLVIADQHAA 142
+
+Query: 446 VNTFPGLVHTARHTMGV 462
+           VNTF GLVHTARH MGV 
+Sbjct: 143 VNTFSGLVHTARHAMGV 159
+
+ Score = 86.7 bits (213), Expect = 3e-16
+ Identities = 39/57 (68%), Positives = 46/57 (80%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI 794
+           P S++ +   GN K+TA DK EEGGDDVKSSWPLRVGLH CYNGVYRGK+  +VE+I 
+Sbjct: 57  PHSYLPAGNAGNYKKTAGDKPEEGGDDVKSSWPLRVGLHACYNGVYRGKQDGDVEQI 113
+
+
+>gb|EOB10793.1| hypothetical protein H377_2860 [Rickettsia prowazekii str. Cairo 3]
+         Length = 157
+
+ Score =  129 bits (325), Expect = 3e-31
+ Identities = 75/137 (54%), Positives = 85/137 (62%), Gaps = 1/137 (0%)
+
+
+Query: 327 EMQRCPSGNLDTGAAWLSSARVVRCWVKSRNERNPCL*LSAFS-WTL*RDCL*K*EEGGD 385
+           EM    S    TG AWLSSARVVRCWVKSRNERNP   L   +     +    K EEGGD 
+Sbjct: 18  EMLSFSSAGPHTGVAWLSSARVVRCWVKSRNERNPYSYLPVGNAGNYKKTAGDKPEEGGD 77
+
+Query: 386 DV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQHTA 445
+           DV S+W LR G H CYNG    +Q  + ++I K +         +S+KLESLVIA QH A 
+Sbjct: 78  DVKSSWPLRVGLHACYNGVYRGKQYGDVEQIPKRHLSSDCSLQLESMKLESLVIADQHAA 137
+
+Query: 446 VNTFPGLVHTARHTMGV 462
+           VNTF GLVHTARH MGV 
+Sbjct: 138 VNTFSGLVHTARHAMGV 154
+
+ Score = 85.5 bits (210), Expect = 7e-16
+ Identities = 39/57 (68%), Positives = 45/57 (78%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI 794
+           P S++     GN K+TA DK EEGGDDVKSSWPLRVGLH CYNGVYRGK+  +VE+I 
+Sbjct: 52  PYSYLPVGNAGNYKKTAGDKPEEGGDDVKSSWPLRVGLHACYNGVYRGKQYGDVEQI 108
+
+
+>gb|EOB10663.1| hypothetical protein H376_1900 [Rickettsia prowazekii str. GvF12]
+         Length = 162
+
+ Score =  129 bits (325), Expect = 3e-31
+ Identities = 75/137 (54%), Positives = 85/137 (62%), Gaps = 1/137 (0%)
+
+
+Query: 327 EMQRCPSGNLDTGAAWLSSARVVRCWVKSRNERNPCL*LSAFS-WTL*RDCL*K*EEGGD 385
+           EM    S    TG AWLSSARVVRCWVKSRNERNP   L   +     +    K EEGGD 
+Sbjct: 23  EMLSFSSAGPHTGVAWLSSARVVRCWVKSRNERNPYSYLPVGNAGNYKKTAGDKPEEGGD 82
+
+Query: 386 DV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQHTA 445
+           DV S+W LR G H CYNG    +Q  + ++I K +         +S+KLESLVIA QH A 
+Sbjct: 83  DVKSSWPLRVGLHACYNGVYRGKQYGDVEQIPKRHLSSDCSLQLESMKLESLVIADQHAA 142
+
+Query: 446 VNTFPGLVHTARHTMGV 462
+           VNTF GLVHTARH MGV 
+Sbjct: 143 VNTFSGLVHTARHAMGV 159
+
+ Score = 85.5 bits (210), Expect = 8e-16
+ Identities = 39/57 (68%), Positives = 45/57 (78%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI 794
+           P S++     GN K+TA DK EEGGDDVKSSWPLRVGLH CYNGVYRGK+  +VE+I 
+Sbjct: 57  PYSYLPVGNAGNYKKTAGDKPEEGGDDVKSSWPLRVGLHACYNGVYRGKQYGDVEQI 113
+
+
+>ref|WP_039860568.1| hypothetical protein, partial [Photobacterium sp. SKA34]
+         Length = 125
+
+ Score =  119 bits (299), Expect = 3e-28
+ Identities = 71/124 (57%), Positives = 80/124 (64%), Gaps = 2/124 (1%)
+
+
+Query: 297 TGARTSGGACGLIRSNAKNLTRS*HARNFGEMQRCPSGNLDTGAAWLSSARVVRCWVKSR 356
+           TGARTSGGACGLIR NAKNL      R F        GN +TGAAWLSSARVV+CWVKSR 
+Sbjct: 1   TGARTSGGACGLIRCNAKNLPTLDIQRTFQRWIGA-FGNSETGAAWLSSARVVKCWVKSR 59
+
+Query: 357 NERNPCL*LSAFSWTL*RDCL-*K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKR 415
+           NERNP   L A +    R+    K EEGGDDV S+W LR G HTCYNG      T + +R 
+Sbjct: 60  NERNPYPCLPAHNGGNSRETAGDKPEEGGDDVKSSWPLRVGLHTCYNGVYRGLPTSDSER 119
+
+Query: 416 IAKT 419
+           I ++ 
+Sbjct: 120 IPES 123
+
+ Score =  108 bits (271), Expect = 2e-24
+ Identities = 67/127 (52%), Positives = 76/127 (59%), Gaps = 4/127 (3%)
+
+
+Query: 675 TGARTSGGACGLIRCNAKNLTYS*HPKKSSEMSLCLRELRDRCCMAVVSSCCEMLG*VPQ 734
+           TGARTSGGACGLIRCNAKNL      +                  A +SS   +   V   
+Sbjct: 1   TGARTSGGACGLIRCNAKNLPTLDIQRTFQRWIGAFGNSETGA--AWLSSARVVKCWVKS 58
+
+Query: 735 RAQ--PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVE 792
+           R +  P   + +   GNS+ETA DK EEGGDDVKSSWPLRVGLHTCYNGVYRG  + + E 
+Sbjct: 59  RNERNPYPCLPAHNGGNSRETAGDKPEEGGDDVKSSWPLRVGLHTCYNGVYRGLPTSDSE 118
+
+Query: 793 RIS*STS 799
+           RI  STS 
+Sbjct: 119 RIPESTS 125
+
+
+>gb|EEX91411.1| conserved hypothetical protein [Brucella ceti M13/05/1]gb|EEX98829.1| conserved hypothetical protein [Brucella ceti M644/93/1]gb|EEY08641.1| conserved hypothetical protein [Brucella pinnipedialis M163/99/10]gb|EEY25280.1| conserved hypothetical protein [Brucella sp. F5/99]
+         Length = 116
+
+ Score =  105 bits (262), Expect = 2e-23
+ Identities = 52/82 (63%), Positives = 61/82 (74%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG D+ Q+ RE + I+K++         + +KLESLVIA 
+Sbjct: 7   EEGGDDVKSSWPLRAGLHTCYNGGDSGQRARECELISKSHLSSDCTLQLECMKLESLVIA 66
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH AVNTFPGLVHTARHTMGV 
+Sbjct: 67  DQHAAVNTFPGLVHTARHTMGV 88
+
+
+>gb|ENT00277.1| hypothetical protein B989_01850, partial [Brucella sp. 56/94]gb|ENT15435.1| hypothetical protein B998_02104, partial [Brucella sp. F96/2]gb|ENT15628.1| hypothetical protein B998_02096, partial [Brucella sp. F96/2]gb|ENT16325.1| hypothetical protein B998_01878, partial [Brucella sp. F96/2]
+         Length = 119
+
+ Score =  105 bits (262), Expect = 3e-23
+ Identities = 52/82 (63%), Positives = 61/82 (74%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG D+ Q+ RE + I+K++         + +KLESLVIA 
+Sbjct: 10  EEGGDDVKSSWPLRAGLHTCYNGGDSGQRARECELISKSHLSSDCTLQLECMKLESLVIA 69
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH AVNTFPGLVHTARHTMGV 
+Sbjct: 70  DQHAAVNTFPGLVHTARHTMGV 91
+
+
+>gb|EEZ33517.1| conserved hypothetical protein [Brucella sp. 83/13]
+         Length = 122
+
+ Score =  105 bits (262), Expect = 3e-23
+ Identities = 52/82 (63%), Positives = 61/82 (74%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG D+ Q+ RE + I+K++         + +KLESLVIA 
+Sbjct: 13  EEGGDDVKSSWPLRAGLHTCYNGGDSGQRARECELISKSHLSSDCTLQLECMKLESLVIA 72
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH AVNTFPGLVHTARHTMGV 
+Sbjct: 73  DQHAAVNTFPGLVHTARHTMGV 94
+
+
+>gb|ENS15315.1| hypothetical protein B972_03201 [Brucella abortus F10/05-11]
+         Length = 122
+
+ Score =  105 bits (262), Expect = 3e-23
+ Identities = 52/82 (63%), Positives = 61/82 (74%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG D+ Q+ RE + I+K++         + +KLESLVIA 
+Sbjct: 13  EEGGDDVKSSWPLRAGLHTCYNGGDSGQRARECELISKSHLSSDCTLQLECMKLESLVIA 72
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH AVNTFPGLVHTARHTMGV 
+Sbjct: 73  DQHAAVNTFPGLVHTARHTMGV 94
+
+
+>ref|WP_050560390.1| MULTISPECIES: hypothetical protein [Brucella]
+         Length = 130
+
+ Score =  105 bits (262), Expect = 4e-23
+ Identities = 52/82 (63%), Positives = 61/82 (74%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG D+ Q+ RE + I+K++         + +KLESLVIA 
+Sbjct: 21  EEGGDDVKSSWPLRAGLHTCYNGGDSGQRARECELISKSHLSSDCTLQLECMKLESLVIA 80
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH AVNTFPGLVHTARHTMGV 
+Sbjct: 81  DQHAAVNTFPGLVHTARHTMGV 102
+
+
+>emb|CEH44546.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH53230.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH63570.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEI15546.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEI35907.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH45438.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH54615.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH43561.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH65851.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH54713.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH78145.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEI07024.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEI16178.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH94276.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH96255.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH96707.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH78252.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEH86582.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEJ25533.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEJ20943.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEJ48970.1| conserved hypothetical protein [Xanthomonas citri pv. bilvae]emb|CEJ48846.1| conserved hypothetical protein [Xanthomonas citri pv. bilvae]emb|CEL46622.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEL39945.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEL48747.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEL34945.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEF35107.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEF34769.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEE39468.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEE24906.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEE74158.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEF22933.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEF22095.1| conserved hypothetical protein [Xanthomonas citri pv. citri]emb|CEF21555.1| conserved hypothetical protein [Xanthomonas citri pv. citri]
+         Length = 83
+
+ Score =  103 bits (257), Expect = 4e-23
+ Identities = 54/73 (73%), Positives = 59/73 (80%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*STSKSGLESAT 807
+           GNSKETA DK EEGGDDVKSSWPLR GLHT YNG  RG ++ E + I  + S+SGLESAT 
+Sbjct: 7   GNSKETAGDKPEEGGDDVKSSWPLRPGLHTYYNGRDRGLQTREGKPIPETLSQSGLESAT 66
+
+Query: 808 RLHEVGIASNRES 820
+           RLHEVGIASNR S 
+Sbjct: 67  RLHEVGIASNRRS 79
+
+
+>emb|CEE39501.1| conserved hypothetical protein [Xanthomonas citri pv. citri]
+         Length = 83
+
+ Score =  102 bits (253), Expect = 1e-22
+ Identities = 53/73 (72%), Positives = 59/73 (80%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*STSKSGLESAT 807
+           GNSKETA DK EEGGD+VKSSWPLR GLHT YNG  RG ++ E + I  + S+SGLESAT 
+Sbjct: 7   GNSKETAGDKPEEGGDEVKSSWPLRPGLHTYYNGRDRGLQTREGKPIPETLSQSGLESAT 66
+
+Query: 808 RLHEVGIASNRES 820
+           RLHEVGIASNR S 
+Sbjct: 67  RLHEVGIASNRRS 79
+
+
+>gb|KMS91954.1| hypothetical protein BVRB_033440, partial [Beta vulgaris subsp. vulgaris]
+         Length = 70
+
+ Score = 98.2 bits (243), Expect = 2e-21
+ Identities = 49/70 (70%), Positives = 56/70 (80%)
+
+
+Query: 752 ETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*STSKSGLESATRLHE 811
+           ETASDKLEEGGDDVKSSWPL  GLHTCYNG Y+  R+ E+E I  + S+ GL++ATRLHE 
+Sbjct: 1   ETASDKLEEGGDDVKSSWPLCPGLHTCYNGRYKPLRNREMELIGENRSQFGLQAATRLHE 60
+
+Query: 812 VGIASNRESE 821
+            GIASN  SE 
+Sbjct: 61  AGIASNAVSE 70
+
+
+>dbj|GAN86215.1| hypothetical protein Gain_0022_002 [Komagataeibacter intermedius TF2]
+         Length = 101
+
+ Score = 97.1 bits (240), Expect = 1e-20
+ Identities = 50/90 (55%), Positives = 62/90 (68%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   + + I+K+          + +K+ESLV 
+Sbjct: 12  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKPGGDTEPISKSRLSSDCTLQLECMKVESLV 71
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 72  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 101
+
+
+>dbj|GAN69564.1| hypothetical protein Abol_046_001 [Acetobacter orleanensis JCM 7639]
+         Length = 101
+
+ Score = 97.1 bits (240), Expect = 1e-20
+ Identities = 51/90 (56%), Positives = 61/90 (67%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG DN +   +   I+K+          + +K+ESLV 
+Sbjct: 12  KPEEGGDDVKSSWPLCPGLHTCYNGDDNGKLDGDIVLISKSRLSSDCTLQLECMKVESLV 71
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 72  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 101
+
+
+>gb|EGE46866.1| Hypothetical protein APO_2582 [Acetobacter pomorum DM001]
+         Length = 105
+
+ Score = 95.9 bits (237), Expect = 4e-20
+ Identities = 50/90 (55%), Positives = 61/90 (67%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   +   I+K+          + +K+ESLV 
+Sbjct: 16  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKLGGDTMLISKSRLSSDCTLQLECMKVESLV 75
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 76  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 105
+
+
+>dbj|GAN90600.1| hypothetical protein Gbfr_019_001 [Gluconobacter frateurii M-2]dbj|GAN94667.1| hypothetical protein Gbth_078_001 [Gluconobacter thailandicus F149-1 = NBRC 100600]
+         Length = 105
+
+ Score = 95.5 bits (236), Expect = 5e-20
+ Identities = 50/90 (55%), Positives = 61/90 (67%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   +   I+K+          + +K+ESLV 
+Sbjct: 16  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKLCGDTVLISKSRLSSDCTLQLEYMKVESLV 75
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 76  IADQHAAVNTFPGLVHTARHTMGVGSTLSR 105
+
+
+>gb|EFS39028.1| hypothetical protein HMPREF9574_00607 [Propionibacterium acnes HL074PA1]
+         Length = 105
+
+ Score = 95.5 bits (236), Expect = 5e-20
+ Identities = 52/83 (62%), Positives = 58/83 (69%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*S 797
+           P S + +   G+S ETA    EEGGDDVKSS PL  GLH CYNG YR  R+CE ERIS S 
+Sbjct: 19  PCSLLPARYGGDSVETAGVNSEEGGDDVKSSCPLCPGLHACYNGWYREWRACEGERISES 78
+
+Query: 798 TSKSGLESATRLHEVGIASNRES 820
+            S+ GL SATR HEVG+ASNR S 
+Sbjct: 79  RSQFGLGSATRPHEVGVASNRRS 101
+
+ Score = 75.5 bits (184), Expect = 6e-13
+ Identities = 45/87 (51%), Positives = 53/87 (60%), Gaps = 1/87 (1%)
+
+
+Query: 343 LSSARVVRCWVKSRNERNPCL*LSA-FSWTL*RDCL*K*EEGGDDV*SAWSLRPGRHTCY 401
+           +SSARVVRCWVKSRNERNPC  L A +            EEGGDDV S+  L PG H CY 
+Sbjct: 1   MSSARVVRCWVKSRNERNPCSLLPARYGGDSVETAGVNSEEGGDDVKSSCPLCPGLHACY 60
+
+Query: 402 NG*DNAQQTREGKRIAKTYPQFRSESA 428
+           NG     +  EG+RI+++  QF   SA 
+Sbjct: 61  NGWYREWRACEGERISESRSQFGLGSA 87
+
+
+>dbj|BAL79568.1| hypothetical protein S23_63860 [Bradyrhizobium sp. S23321]
+         Length = 89
+
+ Score = 94.7 bits (234), Expect = 6e-20
+ Identities = 48/82 (58%), Positives = 54/82 (65%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG DN        +I+K+          + +KLESLVI  
+Sbjct: 5   EEGGDDVKSSWPLRAGLHTCYNGGDNGTLRGNPSQISKSRLSSDWALQLEPMKLESLVIV 64
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH  VNTFPGLVHTARHTMGV 
+Sbjct: 65  DQHATVNTFPGLVHTARHTMGV 86
+
+
+>dbj|GAL98710.1| conserved hypothetical protein [Acetobacter tropicalis]dbj|GAN72222.1| hypothetical protein Absy_048_001 [Acetobacter syzygii 9H-2]dbj|GAN61745.1| hypothetical protein Abin_001_003 [Acetobacter indonesiensis 5H-1]
+         Length = 101
+
+ Score = 95.1 bits (235), Expect = 7e-20
+ Identities = 50/90 (55%), Positives = 61/90 (67%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   +   I+K+          + +K+ESLV 
+Sbjct: 12  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKLDGDIVLISKSRLSSDCTLQLECMKVESLV 71
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 72  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 101
+
+
+>gb|EFE70731.1| LOW QUALITY PROTEIN: conserved hypothetical protein, partial [Streptomyces ghanaensis ATCC 14672]
+         Length = 134
+
+ Score = 96.3 bits (238), Expect = 7e-20
+ Identities = 56/91 (61%), Positives = 60/91 (67%), Gaps = 2/91 (2%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*STSKSGLESAT 807
+           G+S+ETA    EEGGDDVKSS PL +GLHTCYNG Y   R  EVERIS S S+ GL SAT 
+Sbjct: 12  GDSRETAGVNSEEGGDDVKSSCPLCLGLHTCYNGRYNELRYREVERISKSRSQFGLGSAT 71
+
+Query: 808 RLHEVGIASNRESE-CRGEYVPGPCTHRPSH 837
+           R HEVG+ASNR S   R    PGP  H   H 
+Sbjct: 72  RPHEVGVASNRRSALLRVNTFPGP-VHTARH 101
+
+
+>dbj|GAN58022.1| hypothetical protein Abac_028_001 [Acetobacter aceti NBRC 14818]
+         Length = 101
+
+ Score = 94.7 bits (234), Expect = 9e-20
+ Identities = 50/90 (55%), Positives = 60/90 (66%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   +   I+K           + +K+ESLV 
+Sbjct: 12  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKLDGDIVPISKNRLSSDCTLQLECMKVESLV 71
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 72  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 101
+
+
+>dbj|GAN61682.1| hypothetical protein Abci_056_001 [Acetobacter cibinongensis 4H-1]
+         Length = 101
+
+ Score = 94.7 bits (234), Expect = 9e-20
+ Identities = 50/90 (55%), Positives = 60/90 (66%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   +   I+K           + +K+ESLV 
+Sbjct: 12  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKLDGDIVLISKNRLSSDCTLQLECMKVESLV 71
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 72  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 101
+
+
+>dbj|GAN65036.1| hypothetical protein Abor_004_002 [Acetobacter orientalis 21F-2]
+         Length = 101
+
+ Score = 94.4 bits (233), Expect = 1e-19
+ Identities = 50/90 (55%), Positives = 60/90 (66%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W L PG HTCYNG D+ +   +   I+K           + +K+ESLV 
+Sbjct: 12  KPEEGGDDVKSSWPLCPGLHTCYNGGDSGKLDGDIVLISKNRLSSDCTLQLEYMKVESLV 71
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NR 468
+           IA QH AVNTFPGLVHTARHTMGV  + +R 
+Sbjct: 72  IADQHAAVNTFPGLVHTARHTMGVGLTLSR 101
+
+
+>dbj|BAM88840.1| conserved hypothetical protein [Bradyrhizobium oligotrophicum S58]dbj|BAM92527.1| conserved hypothetical protein [Bradyrhizobium oligotrophicum S58]
+         Length = 89
+
+ Score = 93.6 bits (231), Expect = 2e-19
+ Identities = 46/82 (57%), Positives = 55/82 (67%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV S+W LR G HTCYNG D+ +      +I+K+          + +KLESLVI  
+Sbjct: 5   EEGGDDVKSSWPLRAGLHTCYNGGDSGKLRGNPSQISKSRLSSDWALQLEPMKLESLVIV 64
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH  VNTFPGLVHTARHTMGV 
+Sbjct: 65  DQHATVNTFPGLVHTARHTMGV 86
+
+
+>gb|EFO49345.1| conserved hypothetical protein [Vibrio parahaemolyticus K5030]
+         Length = 74
+
+ Score = 92.8 bits (229), Expect = 2e-19
+ Identities = 43/62 (69%), Positives = 48/62 (77%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*S 797
+           P   + +  VGNS+ETA DK EEGGDDVKSSWPLRVGLHTCYNG YRG+ +CE ERI  S 
+Sbjct: 13  PYPCLPASNVGNSRETAGDKPEEGGDDVKSSWPLRVGLHTCYNGAYRGRPTCESERIPKS 72
+
+Query: 798 TS 799
+            S 
+Sbjct: 73  AS 74
+
+
+>gb|EFO50065.1| conserved hypothetical protein [Vibrio parahaemolyticus K5030]
+         Length = 87
+
+ Score = 92.8 bits (229), Expect = 3e-19
+ Identities = 43/62 (69%), Positives = 48/62 (77%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*S 797
+           P   + +  VGNS+ETA DK EEGGDDVKSSWPLRVGLHTCYNG YRG+ +CE ERI  S 
+Sbjct: 26  PYPCLPASNVGNSRETAGDKPEEGGDDVKSSWPLRVGLHTCYNGAYRGRPTCESERIPKS 85
+
+Query: 798 TS 799
+            S 
+Sbjct: 86  AS 87
+
+ Score = 89.7 bits (221), Expect = 3e-18
+ Identities = 50/84 (59%), Positives = 58/84 (69%), Gaps = 1/84 (1%)
+
+
+Query: 337 DTGAAWLSSARVVRCWVKSRNERNPCL*LSAFSWTL*RDCL-*K*EEGGDDV*SAWSLRP 395
+           +TGAAWLSSARVV+CWVKSRNERNP   L A +    R+    K EEGGDDV S+W LR  
+Sbjct: 2   ETGAAWLSSARVVKCWVKSRNERNPYPCLPASNVGNSRETAGDKPEEGGDDVKSSWPLRV 61
+
+Query: 396 GRHTCYNG*DNAQQTREGKRIAKT 419
+           G HTCYNG    + T E +RI K+ 
+Sbjct: 62  GLHTCYNGAYRGRPTCESERIPKS 85
+
+
+>dbj|BAQ44586.1| hypothetical protein Maq22A_c06145 [Methylobacterium aquaticum]dbj|BAQ47927.1| hypothetical protein Maq22A_c25105 [Methylobacterium aquaticum]
+         Length = 114
+
+ Score = 93.6 bits (231), Expect = 3e-19
+ Identities = 48/82 (58%), Positives = 54/82 (65%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEG DDV S+W LR G HTCYNG DN Q+  + +RI K+            +K ESLVI  
+Sbjct: 5   EEGVDDVKSSWPLRDGLHTCYNGGDNGQRRGDLERIPKSRLSSDCTLQLGCMKAESLVIV 64
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH  VNTFPGLVHTARHTMGV 
+Sbjct: 65  DQHATVNTFPGLVHTARHTMGV 86
+
+
+>gb|EFE75472.1| conserved hypothetical protein, partial [Streptomyces roseosporus NRRL 15998]
+         Length = 96
+
+ Score = 92.4 bits (228), Expect = 5e-19
+ Identities = 49/73 (67%), Positives = 54/73 (73%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*STSKSGLESAT 807
+           G+S+ETA    EEGGDDVKSS PL +GLHTCYNG Y   R  E ERIS S S+ GL SAT 
+Sbjct: 20  GDSQETAGVNSEEGGDDVKSSCPLCLGLHTCYNGRYNELRCREAERISKSRSQFGLGSAT 79
+
+Query: 808 RLHEVGIASNRES 820
+           R HEVG+ASNR S 
+Sbjct: 80  RPHEVGVASNRRS 92
+
+
+>ref|WP_052326397.1| hypothetical protein [Rickettsia felis]
+         Length = 102
+
+ Score = 92.4 bits (228), Expect = 6e-19
+ Identities = 48/84 (57%), Positives = 56/84 (66%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W LR G H CYNG    +Q  + ++I K +         +S+KLESLV 
+Sbjct: 16  KPEEGGDDVKSSWPLRVGLHACYNGVYRGKQDGDVEQIPKRHLSSDCSLQLESMKLESLV 75
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGV 462
+           IA QH AVNTF GLVHTARH MGV 
+Sbjct: 76  IADQHAAVNTFSGLVHTARHAMGV 99
+
+ Score = 82.4 bits (202), Expect = 2e-15
+ Identities = 37/47 (78%), Positives = 41/47 (87%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI 794
+           GN K+TA DK EEGGDDVKSSWPLRVGLH CYNGVYRGK+  +VE+I 
+Sbjct: 7   GNYKKTAGDKPEEGGDDVKSSWPLRVGLHACYNGVYRGKQDGDVEQI 53
+
+
+>dbj|BAU89665.1| hypothetical protein MPPM_1060 [Methylobacterium populi]
+         Length = 114
+
+ Score = 92.4 bits (228), Expect = 9e-19
+ Identities = 46/82 (57%), Positives = 54/82 (65%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEG DDV S+W LR G HTCYNG D+  + RE ++I K+            +K ESLVI  
+Sbjct: 5   EEGVDDVKSSWPLRDGLHTCYNGGDSGTRNREVEQIPKSRLSSDCTLQLGCMKAESLVIV 64
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH  VNTFPGLVHTARHTMGV 
+Sbjct: 65  DQHATVNTFPGLVHTARHTMGV 86
+
+
+>emb|CCG06612.1| Putative uncharacterized protein, partial [Pararhodospirillum photometricum DSM 122]
+         Length = 125
+
+ Score = 92.8 bits (229), Expect = 9e-19
+ Identities = 53/94 (56%), Positives = 56/94 (59%), Gaps = 1/94 (1%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W LR G HTCYNG  N    RE   I+K             +K ESLV 
+Sbjct: 14  KPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRERALISKRCLSSDCTLQLGCMKSESLV 73
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NRRELN 472
+           I  QH  VNTFPGLVHTARHTMGV  S  RR  N 
+Sbjct: 74  IVDQHATVNTFPGLVHTARHTMGVG-STRRRSAN 106
+
+
+>ref|WP_051013997.1| hypothetical protein [Pararhodospirillum photometricum]
+         Length = 127
+
+ Score = 92.8 bits (229), Expect = 9e-19
+ Identities = 53/94 (56%), Positives = 56/94 (59%), Gaps = 1/94 (1%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W LR G HTCYNG  N    RE   I+K             +K ESLV 
+Sbjct: 16  KPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRERALISKRCLSSDCTLQLGCMKSESLV 75
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NRRELN 472
+           I  QH  VNTFPGLVHTARHTMGV  S  RR  N 
+Sbjct: 76  IVDQHATVNTFPGLVHTARHTMGVG-STRRRSAN 108
+
+ Score = 75.1 bits (183), Expect = 1e-12
+ Identities = 36/54 (66%), Positives = 40/54 (74%)
+
+
+Query: 742 VASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS 795
+           +AS + G+S ETA DK EEGGDDVKSSWPLR GLHTCYNG+Y G    E   IS 
+Sbjct: 1   MASTSGGHSGETAGDKPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRERALIS 54
+
+
+>emb|CCG06586.1| unnamed protein product, partial [Pararhodospirillum photometricum DSM 122]
+         Length = 137
+
+ Score = 92.8 bits (229), Expect = 1e-18
+ Identities = 53/94 (56%), Positives = 56/94 (59%), Gaps = 1/94 (1%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W LR G HTCYNG  N    RE   I+K             +K ESLV 
+Sbjct: 26  KPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRERALISKRCLSSDCTLQLGCMKSESLV 85
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NRRELN 472
+           I  QH  VNTFPGLVHTARHTMGV  S  RR  N 
+Sbjct: 86  IVDQHATVNTFPGLVHTARHTMGVG-STRRRSAN 118
+
+ Score = 88.2 bits (217), Expect = 5e-17
+ Identities = 44/64 (68%), Positives = 47/64 (73%)
+
+
+Query: 732 VPQRAQPLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEV 791
+           VPQRAQP   VAS + G+S ETA DK EEGGDDVKSSWPLR GLHTCYNG+Y G    E  
+Sbjct: 1   VPQRAQPSFSVASTSGGHSGETAGDKPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRER 60
+
+Query: 792 ERIS 795
+             IS 
+Sbjct: 61  ALIS 64
+
+
+>emb|CUQ19260.1| Uncharacterised protein [Bacteroides vulgatus]
+         Length = 153
+
+ Score = 92.8 bits (229), Expect = 2e-18
+ Identities = 62/129 (48%), Positives = 73/129 (56%), Gaps = 3/129 (2%)
+
+
+Query: 324 NFGEMQRCPSGNLDTGAAWLSSARVVRCWVKSRNERNPCL*L-SAFSWTL*RDCL*K*EE 382
+           N+GE ++ P G  + GAAWLSSAR VRC +K  NERNPC  L + F+    +  + + EE 
+Sbjct: 2   NYGESRK-PQGICE-GAAWLSSARAVRCRLKCHNERNPCCQLLTGFAEDSDKTAIVRCEE 59
+
+Query: 383 GGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQ 442
+           GGDDV SA  LRPG HTCYNG       RE   I KT          DS KL+SLVIA Q 
+Sbjct: 60  GGDDVKSARPLRPGLHTCYNGGYRGPLPREWMPIPKTSLSSDWSLQPDSTKLDSLVIAHQ 119
+
+Query: 443 HTAVNTFPG 451
+                  PG 
+Sbjct: 120 PRRGEYVPG 128
+
+ Score = 92.0 bits (227), Expect = 3e-18
+ Identities = 53/100 (53%), Positives = 63/100 (63%), Gaps = 6/100 (6%)
+
+
+Query: 749 NSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCE---VERIS*STSKSGLES 805
+           +S +TA  + EEGGDDVKS+ PLR GLHTCYNG YRG    E   + + S S+  S     
+Sbjct: 48  DSDKTAIVRCEEGGDDVKSARPLRPGLHTCYNGGYRGPLPREWMPIPKTSLSSDWSLQPD 107
+
+Query: 806 ATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGSGLYQK 845
+           +T+L  + IA       RGEYVPGPCTHRPS HGS  Y K 
+Sbjct: 108 STKLDSLVIAHQPR---RGEYVPGPCTHRPSSHGSRGYLK 144
+
+
+>gb|KWW27340.1| hypothetical protein AUK64_2223 [bacterium P201]
+         Length = 156
+
+ Score = 92.8 bits (229), Expect = 2e-18
+ Identities = 53/102 (51%), Positives = 61/102 (59%), Gaps = 8/102 (7%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*STSKSGLESAT 807
+           G+S  TA    EEGGDDVKS+ PLR+G HTCYNG YRG+   + ERI    SK+GL S   
+Sbjct: 50  GDSGGTAGASREEGGDDVKSARPLRLGRHTCYNGRYRGQPPGDRERI----SKAGLSSDR 105
+
+Query: 808 RLHEVGIASN----RESECRGEYVPGPCTHRPSHHGSGLYQK 845
+            L    +  +         RGEYVPGPCTHRPS H S  Y K 
+Sbjct: 106 SLQPDSVKLDSLVIAHQPWRGEYVPGPCTHRPSSHESPWYLK 147
+
+ Score = 85.1 bits (209), Expect = 1e-15
+ Identities = 59/117 (50%), Positives = 66/117 (56%), Gaps = 1/117 (0%)
+
+
+Query: 336 LDTGAAWLSSARVVRCWVKSRNERNPCL*LSA-FSWTL*RDCL*K*EEGGDDV*SAWSLR 394
+           L+ GAAWLSSAR VRC VKS NERNP + L A  +           EEGGDDV SA  LR 
+Sbjct: 15  LEQGAAWLSSARAVRCQVKSYNERNPYVQLPAGEAGDSGGTAGASREEGGDDVKSARPLR 74
+
+Query: 395 PGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQHTAVNTFPG 451
+            GRHTCYNG    Q   + +RI+K           DSVKL+SLVIA Q       PG 
+Sbjct: 75  LGRHTCYNGRYRGQPPGDRERISKAGLSSDRSLQPDSVKLDSLVIAHQPWRGEYVPG 131
+
+
+>emb|CCG06566.1| Putative uncharacterized protein, partial [Pararhodospirillum photometricum DSM 122]
+         Length = 161
+
+ Score = 92.8 bits (229), Expect = 2e-18
+ Identities = 53/94 (56%), Positives = 56/94 (59%), Gaps = 1/94 (1%)
+
+
+Query: 379 K*EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLV 438
+           K EEGGDDV S+W LR G HTCYNG  N    RE   I+K             +K ESLV 
+Sbjct: 50  KPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRERALISKRCLSSDCTLQLGCMKSESLV 109
+
+Query: 439 IAGQHTAVNTFPGLVHTARHTMGVDCS*NRRELN 472
+           I  QH  VNTFPGLVHTARHTMGV  S  RR  N 
+Sbjct: 110 IVDQHATVNTFPGLVHTARHTMGVG-STRRRSAN 142
+
+ Score = 72.8 bits (177), Expect = 2e-11
+ Identities = 34/48 (70%), Positives = 36/48 (75%)
+
+
+Query: 748 GNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS 795
+           G+S ETA DK EEGGDDVKSSWPLR GLHTCYNG+Y G    E   IS 
+Sbjct: 41  GHSGETAGDKPEEGGDDVKSSWPLRAGLHTCYNGIYNGSPPRERALIS 88
+
+
+>emb|CUP52652.1| Uncharacterised protein [Bacteroides vulgatus]emb|CUN53470.1| Uncharacterised protein [Bacteroides vulgatus]
+         Length = 153
+
+ Score = 92.4 bits (228), Expect = 3e-18
+ Identities = 54/111 (48%), Positives = 67/111 (60%), Gaps = 6/111 (5%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCE---VERI 794
+           P   + + +  +S +TA  + EEGGDDVKS+ PLR GLHTCYNG YRG    E   + +  
+Sbjct: 37  PCCQLLTGSAEDSDKTAIVRCEEGGDDVKSARPLRPGLHTCYNGGYRGPLPREWMPIPKT 96
+
+Query: 795 S*STSKSGLESATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGSGLYQK 845
+           S S+  S    +T+L  + IA       RGEYVPGPCTHRPS HGS  Y K 
+Sbjct: 97  SLSSDWSLQPDSTKLDSLVIAHQPR---RGEYVPGPCTHRPSSHGSRGYLK 144
+
+ Score = 89.7 bits (221), Expect = 2e-17
+ Identities = 61/129 (47%), Positives = 72/129 (55%), Gaps = 3/129 (2%)
+
+
+Query: 324 NFGEMQRCPSGNLDTGAAWLSSARVVRCWVKSRNERNPCL*L-SAFSWTL*RDCL*K*EE 382
+           N+GE ++ P G  + GAAWLSSAR VRC +K  NERNPC  L +  +    +  + + EE 
+Sbjct: 2   NYGESRK-PQGICE-GAAWLSSARAVRCRLKCHNERNPCCQLLTGSAEDSDKTAIVRCEE 59
+
+Query: 383 GGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQ 442
+           GGDDV SA  LRPG HTCYNG       RE   I KT          DS KL+SLVIA Q 
+Sbjct: 60  GGDDVKSARPLRPGLHTCYNGGYRGPLPREWMPIPKTSLSSDWSLQPDSTKLDSLVIAHQ 119
+
+Query: 443 HTAVNTFPG 451
+                  PG 
+Sbjct: 120 PRRGEYVPG 128
+
+
+>emb|CDT72964.1| conserved hypothetical protein [Vibrio sp. J2-29]
+         Length = 74
+
+ Score = 88.6 bits (218), Expect = 6e-18
+ Identities = 41/62 (66%), Positives = 48/62 (77%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*S 797
+           P   + +  VGNS+ETA DK EEGGDDVKSSWPLRVGLHTCYNG YRG+++ + ERI  S 
+Sbjct: 13  PYPCLPASNVGNSRETAGDKPEEGGDDVKSSWPLRVGLHTCYNGAYRGQQASDSERIPKS 72
+
+Query: 798 TS 799
+            S 
+Sbjct: 73  AS 74
+
+ Score = 68.2 bits (165), Expect = 9e-11
+ Identities = 38/72 (52%), Positives = 46/72 (63%), Gaps = 1/72 (1%)
+
+
+Query: 349 VRCWVKSRNERNPCL*LSAFSWTL*RDCL*-K*EEGGDDV*SAWSLRPGRHTCYNG*DNA 407
+           ++CWVKSRNERNP   L A +    R+    K EEGGDDV S+W LR G HTCYNG     
+Sbjct: 1   MKCWVKSRNERNPYPCLPASNVGNSRETAGDKPEEGGDDVKSSWPLRVGLHTCYNGAYRG 60
+
+Query: 408 QQTREGKRIAKT 419
+           QQ  + +RI K+ 
+Sbjct: 61  QQASDSERIPKS 72
+
+
+>gb|EEZ19090.1| hypothetical protein HMPREF0105_4634 [Bacteroides sp. 3_1_33FAA]
+         Length = 129
+
+ Score = 90.1 bits (222), Expect = 8e-18
+ Identities = 52/100 (52%), Positives = 62/100 (62%), Gaps = 6/100 (6%)
+
+
+Query: 749 NSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCE---VERIS*STSKSGLES 805
+           +S +TA  + EEGGDDVKS+ PLR GLHTCYNG YRG    E   + +   S+  S     
+Sbjct: 24  DSDKTAIVRCEEGGDDVKSARPLRPGLHTCYNGGYRGPLPREWMPIPKTPLSSDWSLQPD 83
+
+Query: 806 ATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGSGLYQK 845
+           +T+L  + IA       RGEYVPGPCTHRPS HGS  Y K 
+Sbjct: 84  STKLDSLVIAHQPR---RGEYVPGPCTHRPSSHGSRGYLK 120
+
+
+>gb|EDM52642.1| hypothetical protein EUBVEN_00058 [Eubacterium ventriosum ATCC 27560]
+         Length = 65
+
+ Score = 87.4 bits (215), Expect = 1e-17
+ Identities = 44/65 (67%), Positives = 51/65 (78%)
+
+
+Query: 739 LSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*ST 798
+           +S VAS T G+S+ETA D LEEGGDDVKSS PLR GLHTCYNGV +GKR  E ++IS  T 
+Sbjct: 1   MSLVASSTAGHSRETARDNLEEGGDDVKSSCPLRAGLHTCYNGVNKGKRPREGKQISKIT 60
+
+Query: 799 SKSGL 803
+           S+ GL 
+Sbjct: 61  SQFGL 65
+
+
+>gb|AGC78943.1| hypothetical protein (mitochondrion) [Vicia faba]
+         Length = 135
+
+ Score = 89.7 bits (221), Expect = 1e-17
+ Identities = 46/82 (56%), Positives = 54/82 (65%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV SAW L  G HTCYNG  N +Q  + +RI K            ++KLESLVIA 
+Sbjct: 13  EEGGDDVKSAWPLWAGPHTCYNGNYNGKQGCKAERIRKDCLSSDCSLQLGNMKLESLVIA 72
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH AVN +PG VHTARHT+G+ 
+Sbjct: 73  DQHAAVNMYPGPVHTARHTLGI 94
+
+ Score = 70.9 bits (172), Expect = 5e-11
+ Identities = 31/46 (67%), Positives = 37/46 (80%)
+
+
+Query: 749 NSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI 794
+           +S+ TAS+ LEEGGDDVKS+WPL  G HTCYNG Y GK+ C+ ERI 
+Sbjct: 3   HSRGTASEILEEGGDDVKSAWPLWAGPHTCYNGNYNGKQGCKAERI 48
+
+
+>gb|EBA39187.1| hypothetical protein COLAER_01802 [Collinsella aerofaciens ATCC 25986]
+         Length = 115
+
+ Score = 89.0 bits (219), Expect = 1e-17
+ Identities = 50/87 (58%), Positives = 56/87 (64%), Gaps = 1/87 (1%)
+
+
+Query: 338 TGAAWLSSARVVRCWVKSRNERNPCL*L-SAFSWTL*RDCL*K*EEGGDDV*SAWSLRPG 396
+           TG AWLSSARVVRCWVKSRNERNP   L S  +         K EEGGDDV S+  L PG 
+Sbjct: 15  TGGAWLSSARVVRCWVKSRNERNPRRVLPSGDAGNPRGTAAVKAEEGGDDVKSSCPLCPG 74
+
+Query: 397 RHTCYNG*DNAQQTREGKRIAKTYPQF 423
+            HTCYNG       REG+RI ++ PQF 
+Sbjct: 75  LHTCYNGRYRGMPPREGERIPESRPQF 101
+
+ Score = 76.3 bits (186), Expect = 4e-13
+ Identities = 42/74 (56%), Positives = 47/74 (63%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS*S 797
+           P   + S   GN + TA+ K EEGGDDVKSS PL  GLHTCYNG YRG    E ERI  S 
+Sbjct: 38  PRRVLPSGDAGNPRGTAAVKAEEGGDDVKSSCPLCPGLHTCYNGRYRGMPPREGERIPES 97
+
+Query: 798 TSKSGLESATRLHE 811
+             + GL +ATR HE 
+Sbjct: 98  RPQFGLGAATRPHE 111
+
+
+>dbj|BAQ43874.1| hypothetical protein Maq22A_c01905 [Methylobacterium aquaticum]
+         Length = 107
+
+ Score = 88.6 bits (218), Expect = 2e-17
+ Identities = 44/78 (57%), Positives = 51/78 (65%)
+
+
+Query: 385 DDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIAGQHT 444
+           DDV S+W LR G HTCYNG DN Q+  + +RI K+            +K ESLVI  QH  
+Sbjct: 2   DDVKSSWPLRDGLHTCYNGGDNGQRRGDLERIPKSRLSSDCTLQLGCMKAESLVIVDQHA 61
+
+Query: 445 AVNTFPGLVHTARHTMGV 462
+            VNTFPGLVHTARHTMGV 
+Sbjct: 62  TVNTFPGLVHTARHTMGV 79
+
+
+>gb|EHH01436.1| hypothetical protein HMPREF9441_00676 [Paraprevotella clara YIT 11840]
+         Length = 129
+
+ Score = 89.0 bits (219), Expect = 2e-17
+ Identities = 52/106 (49%), Positives = 63/106 (59%), Gaps = 6/106 (5%)
+
+
+Query: 738 PLSFVASDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCE---VERI 794
+           P   + S   G S +TA  + EEGGDDVKS+ PLR GLHTCYNG YRG  S +   + +  
+Sbjct: 13  PSPQLPSGNAGPSGDTAIVRCEEGGDDVKSARPLRPGLHTCYNGGYRGPLSGDGWPIPKT 72
+
+Query: 795 S*STSKSGLESATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGS 840
+             S+  S    +T+L  + IA       RGEYVPGPCTHRPS H S 
+Sbjct: 73  PLSSDWSLQPDSTKLDSLVIA---HQPWRGEYVPGPCTHRPSSHES 115
+
+
+>gb|EEY81381.1| LOW QUALITY PROTEIN: hypothetical protein HMPREF0103_3966, partial [Bacteroides sp. 2_1_33B]
+         Length = 113
+
+ Score = 86.7 bits (213), Expect = 9e-17
+ Identities = 51/100 (51%), Positives = 61/100 (61%), Gaps = 6/100 (6%)
+
+
+Query: 749 NSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI---S*STSKSGLES 805
+           +S  TAS   EEGGDDVKS+ PL  G HTCYNGV +G+   + ERI     S+ +S     
+Sbjct: 8   DSGGTASVSCEEGGDDVKSARPLHPGRHTCYNGVDKGRPPGDRERIPKPRLSSDRSLQPD 67
+
+Query: 806 ATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGSGLYQK 845
+           + +L  + IA       RGEYVPGPCTHRPS HGS  Y K 
+Sbjct: 68  SVKLDSLVIA---HQPWRGEYVPGPCTHRPSSHGSRGYLK 104
+
+
+>dbj|GAA57881.1| hypothetical protein CLF_113308 [Clonorchis sinensis]
+         Length = 73
+
+ Score = 84.7 bits (208), Expect = 1e-16
+ Identities = 40/52 (76%), Positives = 42/52 (80%)
+
+
+Query: 744 SDTVGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERIS 795
+           S   GNSKETASDKLEEGGDDVKSSWPLR GLHTCYNG Y+ KR  E +R S 
+Sbjct: 22  SGPAGNSKETASDKLEEGGDDVKSSWPLRPGLHTCYNGAYKEKRPRESKRTS 73
+
+
+>emb|CUQ93356.1| Uncharacterised protein [[Ruminococcus] torques]
+         Length = 86
+
+ Score = 85.1 bits (209), Expect = 1e-16
+ Identities = 40/55 (72%), Positives = 46/55 (83%)
+
+
+Query: 786 KRSCEVERIS*STSKSGLESATRLHEVGIASNRESECRGEYVPGPCTHRPSHHGS 840
+           K+  EVE+ S +TS+ GL++ATRLHEVGIASNR S C GEYVPGPCTHRPSHH S 
+Sbjct: 24  KQDREVEQNSETTSQFGLQAATRLHEVGIASNRGSACHGEYVPGPCTHRPSHHES 78
+
+
+>ref|XP_016682740.1| PREDICTED: uncharacterized protein LOC107901306 [Gossypium hirsutum]
+         Length = 144
+
+ Score = 86.7 bits (213), Expect = 2e-16
+ Identities = 44/82 (53%), Positives = 53/82 (64%)
+
+
+Query: 381 EEGGDDV*SAWSLRPGRHTCYNG*DNAQQTREGKRIAKTYPQFRSESAFDSVKLESLVIA 440
+           EEGGDDV SAW L  G HTCY G  N +Q  + +RI K            ++KLESLVIA 
+Sbjct: 22  EEGGDDVKSAWPLWAGPHTCYTGNYNGKQGCKAERIRKNCLSSDCSLQLGNMKLESLVIA 81
+
+Query: 441 GQHTAVNTFPGLVHTARHTMGV 462
+            QH A+N +PG VHTARHT+G+ 
+Sbjct: 82  DQHAAMNMYPGPVHTARHTLGI 103
+
+ Score = 70.9 bits (172), Expect = 7e-11
+ Identities = 32/48 (66%), Positives = 37/48 (77%)
+
+
+Query: 747 VGNSKETASDKLEEGGDDVKSSWPLRVGLHTCYNGVYRGKRSCEVERI 794
+           V +S+ TASD LEEGGDDVKS+WPL  G HTCY G Y GK+ C+ ERI 
+Sbjct: 10  VPHSRGTASDILEEGGDDVKSAWPLWAGPHTCYTGNYNGKQGCKAERI 57
+
+
+  Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+    Posted date:  Jul 25, 2016  3:44 PM
+	Number of letters in database: 33,640,656,333
+	Number of sequences in database: 91,332,064
+
+  Matrix: BLOSUM62
+  Gap Penalties Existence: 11, Extension: 1
+expect: 1e-10
+allowgaps: yes
+Search Statistics
+A: 40
+Hits_to_DB: 2,534,952,283
+S1: 38
+S1_bits: 19.2
+S2: 188
+S2_bits: 77.0
+T: 11
+X1: 15
+X1_bits: 7.4
+X2: 38
+X2_bits: 14.6
+X3: 64
+X3_bits: 24.7
+dbentries: 91,332,064
+dbletters: 33,640,656,333
+effectivedblength: 18,844,861,965
+effectivespace: 13,530,610,890,870
+effectivespaceused: 13,530,610,890,870
+entropy: 0.540
+entropy_gapped: 0.140
+kappa: 0.151
+kappa_gapped: 0.0410
+lambda: 0.344
+lambda_gapped: 0.267
+length_adjustment: 162
+num_extensions: 95,692,028
+num_successful_extensions: 287,862
+number_of_hsps_better_than_expect_value_cutoff_without_gapping: 0
+number_of_hsps_gapped: 287,859
+number_of_hsps_successfully_gapped: 5
+querylength: 718
+seqs_better_than_1e-10: 4
+
+

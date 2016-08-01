@@ -1,0 +1,307 @@
+BLASTP 2.4.0+
+
+
+Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+Query= 24.6jsd19.Tut 
+       (516 letters)
+
+Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+           91,332,064 sequences; 33,640,656,333 total letters
+
+                                                                 Score       E
+Sequences producing significant alignments:                      (bits)    value
+gb|OBV21546.1| hypothetical protein SAHC556_03075 [Staphylococ...   84.0  6e-17
+gb|ALM22937.1| hypothetical protein [Paenibacillus polymyxa]        86.7  6e-17
+gb|OBV21545.1| hypothetical protein SAHC556_03073 [Staphylococ...   83.6  8e-17
+ref|WP_039860568.1| hypothetical protein, partial [Photobacter...   82.4  2e-15
+ref|WP_049868837.1| hypothetical protein [Paenibacillus sp. D9]     78.2  6e-14
+ref|WP_054027107.1| hypothetical protein [Bacillus sp. FJAT-28...   77.8  8e-14
+ref|WP_017427430.1| hypothetical protein [Paenibacillus sp. IC...   77.4  1e-13
+ref|WP_051421749.1| hypothetical protein [Cohnella panacarvi]       72.8  2e-12
+ref|WP_060954595.1| hypothetical protein [Mycoplasma mycoides]      72.4  9e-12
+emb|CEA10828.1| hypothetical protein MCCPILRI181_00462 [Mycopl...   72.4  9e-12
+emb|CEA11829.1| hypothetical protein MCCPF38_00465 [Mycoplasma...   72.4  9e-12
+emb|CBV66931.1| Putative uncharacterized protein [Mycoplasma l...   72.4  9e-12
+emb|CWW45432.1| Uncharacterised protein [Listeria monocytogenes]    69.3  1e-11
+emb|CBA31932.1| hypothetical protein Csp_D29590 [Curvibacter p...   69.7  1e-11
+ref|WP_019795867.1| hypothetical protein, partial [Streptococc...   70.9  1e-11
+gb|ANA08051.1| hypothetical protein 5G4_022 [uncultured bacter...   67.8  4e-11
+
+
+>gb|OBV21546.1| hypothetical protein SAHC556_03075 [Staphylococcus aureus subsp. aureus]
+         Length = 39
+
+ Score = 84.0 bits (206), Expect = 6e-17
+ Identities = 38/39 (97%), Positives = 39/39 (100%)
+
+
+Query: 335 LTTLEIEPSPSGDKVTGGAWLSSARVVRCWVKSRNERNP 373
+           +TTLEIEPSPSGDKVTGGAWLSSARVVRCWVKSRNERNP 
+Sbjct: 1   MTTLEIEPSPSGDKVTGGAWLSSARVVRCWVKSRNERNP 39
+
+
+>gb|ALM22937.1| hypothetical protein [Paenibacillus polymyxa]
+         Length = 124
+
+ Score = 86.7 bits (213), Expect = 6e-17
+ Identities = 58/131 (44%), Positives = 71/131 (54%), Gaps = 14/131 (10%)
+
+
+Query: 126 MGESGTEQRRVSDEVFGS*NSVIREEHMCK*LCTS*RYRIRKPRLTTCQQPR*YVG---- 181
+           MGES TEQRRV DE F       R   +C    TS R    +  +   + P  YV      
+Sbjct: 1   MGESLTEQRRVGDEGF-------RIVKLCCQGRTSCRVTATRVTVPEKKAPANYVPAAAV 53
+
+Query: 182 ---GKRYPELLGVKRK*AVF*V*CESPRLNRGGSLETGKLECRRGKWNSMCSGEMRRDME 238
+              G+    ++G K +         +P      +LETG+LECRRG+WNS CSGEMRRD+E 
+Sbjct: 54  IRRGQALSGIIGRKARAGGSLSLVFNPEAQLRVALETGELECRRGEWNSTCSGEMRRDVE 113
+
+Query: 239 EHQWRRRLSGL 249
+           EHQWRRRLSGL 
+Sbjct: 114 EHQWRRRLSGL 124
+
+
+>gb|OBV21545.1| hypothetical protein SAHC556_03073 [Staphylococcus aureus subsp. aureus]
+         Length = 37
+
+ Score = 83.6 bits (205), Expect = 8e-17
+ Identities = 36/37 (97%), Positives = 37/37 (100%)
+
+
+Query: 213 LETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL 249
+           +ETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL 
+Sbjct: 1   METGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL 37
+
+
+>ref|WP_039860568.1| hypothetical protein, partial [Photobacterium sp. SKA34]
+         Length = 125
+
+ Score = 82.4 bits (202), Expect = 2e-15
+ Identities = 46/77 (59%), Positives = 52/77 (67%), Gaps = 13/77 (16%)
+
+
+Query: 309 TGTRTSGGACGLIRSNAKNLTKS*HPLTTLEIEPS------PSGDKVTGGAWLSSARVVR 362
+           TG RTSGGACGLIR NAKNL        TL+I+ +        G+  TG AWLSSARVV+ 
+Sbjct: 1   TGARTSGGACGLIRCNAKNLP-------TLDIQRTFQRWIGAFGNSETGAAWLSSARVVK 53
+
+Query: 363 CWVKSRNERNP*A*LPS 379
+           CWVKSRNERNP   LP+ 
+Sbjct: 54  CWVKSRNERNPYPCLPA 70
+
+
+>ref|WP_049868837.1| hypothetical protein [Paenibacillus sp. D9]
+         Length = 124
+
+ Score = 78.2 bits (191), Expect = 6e-14
+ Identities = 57/135 (42%), Positives = 69/135 (51%), Gaps = 22/135 (16%)
+
+
+Query: 126 MGESGTEQRRVSDEVFGS*NSVIREEHMCK*LCTS*RYRIRKPRLTTCQQPR*YVG---- 181
+           M  S TEQRRVS+E        +R   +C    T  R       +   + P  YV      
+Sbjct: 1   MDASLTEQRRVSEEG-------LRVVKLCCQGRTGGRVTASAMTVPEKKAPANYVPAAAV 53
+
+Query: 182 ---GKRYPELLGVKRK*AVF*V*CESPRLNRGG----SLETGKLECRRGKWNSMCSGEMR 234
+              G+    ++G K +   F     SP  N G     + ET +LECRRGKWNS CSGEMR 
+Sbjct: 54  IRRGQALSGIIGRKARAGGF----VSPVFNLGAQPQVARETARLECRRGKWNSTCSGEMR 109
+
+Query: 235 RDMEEHQWRRRLSGL 249
+           RD+EEHQWRRRLSGL 
+Sbjct: 110 RDVEEHQWRRRLSGL 124
+
+
+>ref|WP_054027107.1| hypothetical protein [Bacillus sp. FJAT-28004]gb|OBZ15173.1| hypothetical protein A7975_32355 [Bacillus sp. FJAT-26390]
+         Length = 124
+
+ Score = 77.8 bits (190), Expect = 8e-14
+ Identities = 57/135 (42%), Positives = 72/135 (53%), Gaps = 22/135 (16%)
+
+
+Query: 126 MGESGTEQRRVSDEVFGS*NSVIREEHMCK*LCTS*RY--RIRKPRLTTCQQ--PR*YVG 181
+           M ES TEQRRVSDE F     +++       LC   R   R+  P++T  ++  P  YV  
+Sbjct: 1   MDESLTEQRRVSDEGF----RIVK-------LCCQGRMLGRVTAPKVTVPEKKAPANYVP 49
+
+Query: 182 -------GKRYPELLGVKRK*AVF*V*CESPRLNRGGSLETGKLECRRGKWNSMCSGEMR 234
+                  G+    ++G K +                 ++ET KLE RRGKWNS CSGEMR 
+Sbjct: 50  AAAVIRRGQALSGIIGRKARAGGLVSLLFKLGAQPQVAMETAKLEYRRGKWNSTCSGEMR 109
+
+Query: 235 RDMEEHQWRRRLSGL 249
+           RD+EEHQWRRRLSGL 
+Sbjct: 110 RDVEEHQWRRRLSGL 124
+
+
+>ref|WP_017427430.1| hypothetical protein [Paenibacillus sp. ICGEB2008]gb|KKD54396.1| hypothetical protein C400_14160 [Paenibacillus sp. ICGEB2008]
+         Length = 124
+
+ Score = 77.4 bits (189), Expect = 1e-13
+ Identities = 53/126 (42%), Positives = 69/126 (54%), Gaps = 4/126 (3%)
+
+
+Query: 126 MGESGTEQRRVSDEVFGS*NSVIREEHMCK*LCTS*RYRIRKPRLTTCQQPR*YV--GGK 183
+           MGES TEQRRVSDE F       +   + +   T+    + + +      P   V   G+ 
+Sbjct: 1   MGESLTEQRRVSDEGFRIVKLCCQGRTLER--VTALEVTVPEKKALANYVPAAAVIRRGQ 58
+
+Query: 184 RYPELLGVKRK*AVF*V*CESPRLNRGGSLETGKLECRRGKWNSMCSGEMRRDMEEHQWR 243
+               ++G K +         +P      +LETG+LE RRG+WNS CSGEMRRD+EEHQWR 
+Sbjct: 59  ALSGIIGRKARAGGSLSLVFNPEAQLRVALETGELEYRRGEWNSTCSGEMRRDVEEHQWR 118
+
+Query: 244 RRLSGL 249
+           RRLSGL 
+Sbjct: 119 RRLSGL 124
+
+
+>ref|WP_051421749.1| hypothetical protein [Cohnella panacarvi]
+         Length = 89
+
+ Score = 72.8 bits (177), Expect = 2e-12
+ Identities = 32/38 (84%), Positives = 36/38 (94%)
+
+
+Query: 212 SLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL 249
+           +LETG+LECRRG+ NS CSGEMRRD+EEHQWRRRLSGL 
+Sbjct: 52  ALETGRLECRRGERNSTCSGEMRRDVEEHQWRRRLSGL 89
+
+
+>ref|WP_060954595.1| hypothetical protein [Mycoplasma mycoides]
+         Length = 136
+
+ Score = 72.4 bits (176), Expect = 9e-12
+ Identities = 36/50 (72%), Positives = 41/50 (82%)
+
+
+Query: 212 SLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL*LTLMCESVGIK 261
+           +L+T  LEC+RGK NSMCSGEMRR MEEH WR+RL+GL LTL  ESVG K 
+Sbjct: 87  ALKTVLLECKRGKRNSMCSGEMRRYMEEHLWRKRLTGLLLTLRHESVGSK 136
+
+
+>emb|CEA10828.1| hypothetical protein MCCPILRI181_00462 [Mycoplasma capricolum subsp. capripneumoniae]emb|CEA11314.1| hypothetical protein MCCPILRI181_00976 [Mycoplasma capricolum subsp. capripneumoniae]
+         Length = 136
+
+ Score = 72.4 bits (176), Expect = 9e-12
+ Identities = 36/50 (72%), Positives = 41/50 (82%)
+
+
+Query: 212 SLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL*LTLMCESVGIK 261
+           +L+T  LEC+RGK NSMCSGEMRR MEEH WR+RL+GL LTL  ESVG K 
+Sbjct: 87  ALKTVLLECKRGKRNSMCSGEMRRYMEEHLWRKRLTGLLLTLRHESVGSK 136
+
+
+>emb|CEA11829.1| hypothetical protein MCCPF38_00465 [Mycoplasma capricolum subsp. capripneumoniae]emb|CEA12313.1| hypothetical protein MCCPF38_00977 [Mycoplasma capricolum subsp. capripneumoniae]
+         Length = 136
+
+ Score = 72.4 bits (176), Expect = 9e-12
+ Identities = 36/50 (72%), Positives = 41/50 (82%)
+
+
+Query: 212 SLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL*LTLMCESVGIK 261
+           +L+T  LEC+RGK NSMCSGEMRR MEEH WR+RL+GL LTL  ESVG K 
+Sbjct: 87  ALKTVLLECKRGKRNSMCSGEMRRYMEEHLWRKRLTGLLLTLRHESVGSK 136
+
+
+>emb|CBV66931.1| Putative uncharacterized protein [Mycoplasma leachii 99/014/6]emb|CBV67543.1| Putative uncharacterized protein [Mycoplasma leachii 99/014/6]
+         Length = 136
+
+ Score = 72.4 bits (176), Expect = 9e-12
+ Identities = 36/50 (72%), Positives = 41/50 (82%)
+
+
+Query: 212 SLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL*LTLMCESVGIK 261
+           +L+T  LEC+RGK NSMCSGEMRR MEEH WR+RL+GL LTL  ESVG K 
+Sbjct: 87  ALKTVLLECKRGKRNSMCSGEMRRYMEEHLWRKRLTGLLLTLRHESVGSK 136
+
+
+>emb|CWW45432.1| Uncharacterised protein [Listeria monocytogenes]
+         Length = 44
+
+ Score = 69.3 bits (168), Expect = 1e-11
+ Identities = 32/39 (82%), Positives = 34/39 (87%)
+
+
+Query: 465 LYTPPVTPREFVTPEAGGVTF*ELAVEGGTNDWGEVVTR 503
+           LYTPPVTPREFVTPE G VTF E A EGGT++WGEVVTR 
+Sbjct: 6   LYTPPVTPREFVTPEVGRVTFMEPAAEGGTDNWGEVVTR 44
+
+
+>emb|CBA31932.1| hypothetical protein Csp_D29590 [Curvibacter putative symbiont of Hydra magnipapillata]
+         Length = 60
+
+ Score = 69.7 bits (169), Expect = 1e-11
+ Identities = 36/59 (61%), Positives = 39/59 (66%)
+
+
+Query: 205 PRLNRGGSLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL*LTLMCESVGIKQD 263
+           P LN G +  T  LE  RG WNS CS EMRR  EEH+WRR+  G  LTLM ESVG KQD 
+Sbjct: 2   PGLNLGPAFVTASLEYGRGGWNSACSSEMRRYAEEHRWRRQSPGPVLTLMHESVGSKQD 60
+
+
+>ref|WP_019795867.1| hypothetical protein, partial [Streptococcus sobrinus]
+         Length = 102
+
+ Score = 70.9 bits (172), Expect = 1e-11
+ Identities = 30/37 (81%), Positives = 35/37 (94%)
+
+
+Query: 212 SLETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSG 248
+           +LET +LECRRG+WNSMCSGEMRR MEEH+WR+RLSG 
+Sbjct: 66  ALETVRLECRRGEWNSMCSGEMRRYMEEHRWRKRLSG 102
+
+
+>gb|ANA08051.1| hypothetical protein 5G4_022 [uncultured bacterium 5G4]
+         Length = 51
+
+ Score = 67.8 bits (164), Expect = 4e-11
+ Identities = 34/51 (66%), Positives = 37/51 (72%)
+
+
+Query: 213 LETGKLECRRGKWNSMCSGEMRRDMEEHQWRRRLSGL*LTLMCESVGIKQD 263
+           + TG LE  RGKWNS CSG+MRR  EEH WRRRLSG  LTL  ESVG + D 
+Sbjct: 1   MHTGGLEGGRGKWNSRCSGDMRRYREEHLWRRRLSGPYLTLRRESVGSEPD 51
+
+
+  Database: All non-redundant GenBank CDStranslations+PDB+SwissProt+PIR+PRF excluding environmental samplesfrom WGS projects
+    Posted date:  Jul 25, 2016  3:44 PM
+	Number of letters in database: 33,640,656,333
+	Number of sequences in database: 91,332,064
+
+  Matrix: BLOSUM62
+  Gap Penalties Existence: 11, Extension: 1
+expect: 1e-10
+allowgaps: yes
+Search Statistics
+A: 40
+Hits_to_DB: 1,509,465,246
+S1: 38
+S1_bits: 19.2
+S2: 186
+S2_bits: 76.3
+T: 11
+X1: 14
+X1_bits: 7.1
+X2: 38
+X2_bits: 14.6
+X3: 64
+X3_bits: 24.7
+dbentries: 91,332,064
+dbletters: 33,640,656,333
+effectivedblength: 19,301,522,285
+effectivespace: 6,929,246,500,315
+effectivespaceused: 6,929,246,500,315
+entropy: 0.568
+entropy_gapped: 0.140
+kappa: 0.154
+kappa_gapped: 0.0410
+lambda: 0.350
+lambda_gapped: 0.267
+length_adjustment: 157
+num_extensions: 54,445,960
+num_successful_extensions: 137,645
+number_of_hsps_better_than_expect_value_cutoff_without_gapping: 0
+number_of_hsps_gapped: 137,645
+number_of_hsps_successfully_gapped: 2
+querylength: 359
+seqs_better_than_1e-10: 2
+
+
